@@ -1,0 +1,1 @@
+start SteamCMD/steamcmd.exe +force_install_dir ../DS/L4D2 +login anonymous +app_update 222860 validate

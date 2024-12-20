@@ -1,0 +1,1239 @@
+
+
+[2024-07-31 23:53:07] Startup - updater built Dec  2 2013 18:43:44
+[2024-07-31 23:53:07] Checking for update on startup
+[2024-07-31 23:53:07] Checking for available update...
+[2024-07-31 23:53:08] Download failed: http error 0
+[2024-07-31 23:53:08] Package file steamcmd_public_all.zip.ea67e6dc83b60ab8bfb54756920e9ea394f81a90 missing or incorrect size
+[2024-07-31 23:53:08] Package file steamcmd_bins_win32.zip.c5a60520ed26ff584606a61556c53c423cf65497 missing or incorrect size
+[2024-07-31 23:53:08] Package file steamcmd_steamservice_win32.zip.060c38ed69f4c616784fd24108be86b14fcc38b6 missing or incorrect size
+[2024-07-31 23:53:08] Package file steamcmd_steamerrorreporter_win32.zip.3f6e8bcb0ac5985497ab4a88a0ee73e48b405a37 missing or incorrect size
+[2024-07-31 23:53:08] Package file steamcmd_siteserverui_win32.zip.24eee3722a77383749ae67b678313695e9fef36b missing or incorrect size
+[2024-07-31 23:53:08] Package file steamcmd_win32.zip.a8b4151eabc9e93979154dacf7d76b33bc9d1318 missing or incorrect size
+[2024-07-31 23:53:08] Downloading update (0 of 65,458 KB)...
+[2024-07-31 23:53:08] Error: Download of package (steamcmd_win32) failed after 0 bytes (0).
+[2024-07-31 23:53:08] Error: Download of package (steamcmd_siteserverui_win32) failed after 0 bytes (0).
+[2024-07-31 23:53:08] Error: Download of package (steamcmd_steamerrorreporter_win32) failed after 0 bytes (0).
+[2024-07-31 23:53:08] Error: Download of package (steamcmd_steamservice_win32) failed after 0 bytes (0).
+[2024-07-31 23:53:08] Error: Download of package (steamcmd_bins_win32) failed after 0 bytes (0).
+[2024-07-31 23:53:08] Error: Download of package (steamcmd_public_all) failed after 0 bytes (0).
+[2024-07-31 23:53:08] Package file steamcmd_public_all.zip.ea67e6dc83b60ab8bfb54756920e9ea394f81a90 missing or incorrect size
+[2024-07-31 23:53:08] Package file steamcmd_bins_win32.zip.c5a60520ed26ff584606a61556c53c423cf65497 missing or incorrect size
+[2024-07-31 23:53:08] Package file steamcmd_steamservice_win32.zip.060c38ed69f4c616784fd24108be86b14fcc38b6 missing or incorrect size
+[2024-07-31 23:53:08] Package file steamcmd_steamerrorreporter_win32.zip.3f6e8bcb0ac5985497ab4a88a0ee73e48b405a37 missing or incorrect size
+[2024-07-31 23:53:08] Package file steamcmd_siteserverui_win32.zip.24eee3722a77383749ae67b678313695e9fef36b missing or incorrect size
+[2024-07-31 23:53:08] Package file steamcmd_win32.zip.a8b4151eabc9e93979154dacf7d76b33bc9d1318 missing or incorrect size
+[2024-07-31 23:53:09] Downloading update (8,899 of 65,458 KB)...
+[2024-07-31 23:53:09] Downloading update (20,624 of 65,458 KB)...
+[2024-07-31 23:53:09] Downloading update (27,584 of 65,458 KB)...
+[2024-07-31 23:53:09] Downloading update (31,275 of 65,458 KB)...
+[2024-07-31 23:53:10] Downloading update (33,427 of 65,458 KB)...
+[2024-07-31 23:53:10] Downloading update (36,103 of 65,458 KB)...
+[2024-07-31 23:53:10] Downloading update (39,124 of 65,458 KB)...
+[2024-07-31 23:53:10] Downloading update (42,387 of 65,458 KB)...
+[2024-07-31 23:53:11] Downloading update (45,387 of 65,458 KB)...
+[2024-07-31 23:53:11] Downloading update (48,084 of 65,458 KB)...
+[2024-07-31 23:53:11] Downloading update (51,501 of 65,458 KB)...
+[2024-07-31 23:53:11] Downloading update (55,275 of 65,458 KB)...
+[2024-07-31 23:53:12] Downloading update (58,545 of 65,458 KB)...
+[2024-07-31 23:53:12] Downloading update (61,828 of 65,458 KB)...
+[2024-07-31 23:53:12] Downloading update (64,272 of 65,458 KB)...
+[2024-07-31 23:53:13] Downloading update (65,458 of 65,458 KB)...
+[2024-07-31 23:53:13] Download Complete.
+[2024-07-31 23:53:13] uninstalled manifest found in D:\L4L\Win\server\package\steam_cmd_win32 (1).
+[2024-07-31 23:53:13] Found pending update
+[2024-07-31 23:53:13] Applying update...
+[2024-07-31 23:53:13] Extracting package...
+[2024-07-31 23:53:14] Installing update...
+[2024-07-31 23:53:14] Committing NTFS transaction (0 non-transactional backup files)
+[2024-07-31 23:53:14] Cleaning up...
+[2024-07-31 23:53:14] Update complete, launching...
+[2024-07-31 23:53:14] Shutdown
+
+
+[2024-07-31 23:54:09] Startup - updater built Jul 16 2024 16:23:50
+[2024-07-31 23:54:09] Startup - Steam Client launched with: "D:\L4L\Win\scmd\steamcmd.exe" 
+[2024-07-31 23:54:09] Loading cached metrics from disk (D:\L4L\Win\scmd\package\steam_cmd_metrics.bin)
+[2024-07-31 23:54:09] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-07-31 23:54:09] Using the following download hosts for Public, Realm steamglobal
+[2024-07-31 23:54:09] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-07-31 23:54:09] Checking for update on startup
+[2024-07-31 23:54:09] Checking for available updates...
+[2024-07-31 23:54:09] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-07-31 23:54:10] Manifest download: send request
+[2024-07-31 23:54:10] Manifest download: waiting for download to finish
+[2024-07-31 23:54:10] Manifest download: finished
+[2024-07-31 23:54:10] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-07-31 23:54:10] Nothing to do
+[2024-07-31 23:54:10] Verifying installation...
+[2024-07-31 23:54:10] Performing checksum verification of executable files
+[2024-07-31 23:54:10] Verification complete
+[2024-07-31 23:58:08] Clearing cached metrics (D:\L4L\Win\scmd\package\steam_cmd_metrics.bin)
+[2024-08-01 00:03:52] Shutdown
+
+
+[2024-08-02 21:52:21] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-02 21:52:21] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../L4D2DS +login anonymous +app_update 222860 validate
+[2024-08-02 21:52:21] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-02 21:52:21] Using the following download hosts for Public, Realm steamglobal
+[2024-08-02 21:52:21] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-02 21:52:21] Checking for update on startup
+[2024-08-02 21:52:21] Checking for available updates...
+[2024-08-02 21:52:21] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-02 21:52:21] Manifest download: send request
+[2024-08-02 21:52:21] Manifest download: waiting for download to finish
+[2024-08-02 21:52:22] Manifest download: finished
+[2024-08-02 21:52:22] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-02 21:52:22] Nothing to do
+[2024-08-02 21:52:22] Verifying installation...
+[2024-08-02 21:52:22] Performing checksum verification of executable files
+[2024-08-02 21:52:24] Verification complete
+[2024-08-02 21:56:58] Shutdown
+
+
+[2024-08-04 16:55:05] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-04 16:55:05] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../L4D2DS +login anonymous +app_update 222860 validate
+[2024-08-04 16:55:05] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-04 16:55:05] Using the following download hosts for Public, Realm steamglobal
+[2024-08-04 16:55:05] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-04 16:55:05] Checking for update on startup
+[2024-08-04 16:55:05] Checking for available updates...
+[2024-08-04 16:55:05] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-04 16:55:05] Manifest download: send request
+[2024-08-04 16:55:05] Manifest download: waiting for download to finish
+[2024-08-04 16:55:05] Manifest download: finished
+[2024-08-04 16:55:05] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-04 16:55:05] Nothing to do
+[2024-08-04 16:55:05] Verifying installation...
+[2024-08-04 16:55:05] Performing checksum verification of executable files
+[2024-08-04 16:55:07] Verification complete
+[2024-08-04 17:01:35] Shutdown
+
+
+[2024-08-09 18:17:15] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-09 18:17:15] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-08-09 18:17:15] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-09 18:17:15] Using the following download hosts for Public, Realm steamglobal
+[2024-08-09 18:17:15] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-09 18:17:15] Checking for update on startup
+[2024-08-09 18:17:15] Checking for available updates...
+[2024-08-09 18:17:15] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-09 18:17:15] Manifest download: send request
+[2024-08-09 18:17:15] Manifest download: waiting for download to finish
+[2024-08-09 18:17:15] Manifest download: finished
+[2024-08-09 18:17:15] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-09 18:17:15] Nothing to do
+[2024-08-09 18:17:15] Verifying installation...
+[2024-08-09 18:17:15] Performing checksum verification of executable files
+[2024-08-09 18:17:17] Verification complete
+[2024-08-09 18:22:18] Shutdown
+
+
+[2024-08-09 18:32:24] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-09 18:32:24] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-08-09 18:32:25] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-09 18:32:25] Using the following download hosts for Public, Realm steamglobal
+[2024-08-09 18:32:25] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-09 18:32:25] Checking for update on startup
+[2024-08-09 18:32:25] Checking for available updates...
+[2024-08-09 18:32:25] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-09 18:32:25] Manifest download: send request
+[2024-08-09 18:32:25] Manifest download: waiting for download to finish
+[2024-08-09 18:32:25] Manifest download: finished
+[2024-08-09 18:32:25] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-09 18:32:25] Nothing to do
+[2024-08-09 18:32:25] Verifying installation...
+[2024-08-09 18:32:25] Performing checksum verification of executable files
+[2024-08-09 18:32:27] Verification complete
+[2024-08-09 18:40:27] Shutdown
+
+
+[2024-08-10 21:25:58] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-10 21:25:58] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-08-10 21:25:59] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-10 21:25:59] Using the following download hosts for Public, Realm steamglobal
+[2024-08-10 21:25:59] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-10 21:25:59] Checking for update on startup
+[2024-08-10 21:25:59] Checking for available updates...
+[2024-08-10 21:25:59] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-10 21:25:59] Manifest download: send request
+[2024-08-10 21:25:59] Manifest download: waiting for download to finish
+[2024-08-10 21:25:59] Manifest download: finished
+[2024-08-10 21:25:59] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-10 21:25:59] Nothing to do
+[2024-08-10 21:25:59] Verifying installation...
+[2024-08-10 21:25:59] Performing checksum verification of executable files
+[2024-08-10 21:26:01] Verification complete
+[2024-08-10 21:31:34] Shutdown
+
+
+[2024-08-12 17:16:47] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-12 17:16:47] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-08-12 17:16:48] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-12 17:16:48] Using the following download hosts for Public, Realm steamglobal
+[2024-08-12 17:16:48] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-12 17:16:48] Checking for update on startup
+[2024-08-12 17:16:48] Checking for available updates...
+[2024-08-12 17:16:48] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-12 17:16:48] Manifest download: send request
+[2024-08-12 17:16:48] Manifest download: waiting for download to finish
+[2024-08-12 17:16:48] Manifest download: finished
+[2024-08-12 17:16:48] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-12 17:16:48] Nothing to do
+[2024-08-12 17:16:48] Verifying installation...
+[2024-08-12 17:16:48] Performing checksum verification of executable files
+[2024-08-12 17:16:50] Verification complete
+[2024-08-12 19:07:34] Shutdown
+
+
+[2024-08-12 20:17:14] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-12 20:17:14] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-08-12 20:17:14] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-12 20:17:14] Using the following download hosts for Public, Realm steamglobal
+[2024-08-12 20:17:14] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-12 20:17:14] Checking for update on startup
+[2024-08-12 20:17:14] Checking for available updates...
+[2024-08-12 20:17:14] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-12 20:17:14] Manifest download: send request
+[2024-08-12 20:17:14] Manifest download: waiting for download to finish
+[2024-08-12 20:17:14] Manifest download: finished
+[2024-08-12 20:17:14] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-12 20:17:14] Nothing to do
+[2024-08-12 20:17:14] Verifying installation...
+[2024-08-12 20:17:14] Performing checksum verification of executable files
+[2024-08-12 20:17:15] Verification complete
+[2024-08-12 20:23:47] Shutdown
+
+
+[2024-08-12 23:19:45] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-12 23:19:45] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-08-12 23:19:45] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-12 23:19:45] Using the following download hosts for Public, Realm steamglobal
+[2024-08-12 23:19:45] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-12 23:19:45] Checking for update on startup
+[2024-08-12 23:19:45] Checking for available updates...
+[2024-08-12 23:19:45] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-12 23:19:45] Manifest download: send request
+[2024-08-12 23:19:45] Manifest download: waiting for download to finish
+[2024-08-12 23:19:46] Manifest download: finished
+[2024-08-12 23:19:46] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-12 23:19:46] Nothing to do
+[2024-08-12 23:19:46] Verifying installation...
+[2024-08-12 23:19:46] Performing checksum verification of executable files
+[2024-08-12 23:19:46] Verification complete
+[2024-08-12 23:26:57] Shutdown
+
+
+[2024-08-13 23:23:01] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-13 23:23:01] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-08-13 23:23:02] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-13 23:23:02] Using the following download hosts for Public, Realm steamglobal
+[2024-08-13 23:23:02] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-13 23:23:02] Checking for update on startup
+[2024-08-13 23:23:02] Проверка на наличие обновлений...
+[2024-08-13 23:23:02] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-13 23:23:02] Manifest download: send request
+[2024-08-13 23:23:02] Manifest download: waiting for download to finish
+[2024-08-13 23:23:02] Manifest download: finished
+[2024-08-13 23:23:02] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-13 23:23:02] Nothing to do
+[2024-08-13 23:23:02] Проверка установки...
+[2024-08-13 23:23:02] Performing checksum verification of executable files
+[2024-08-13 23:23:04] Verification complete
+[2024-08-14 00:03:53] Shutdown
+
+
+[2024-08-14 23:47:02] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-14 23:47:02] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-08-14 23:47:02] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-14 23:47:02] Using the following download hosts for Public, Realm steamglobal
+[2024-08-14 23:47:02] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-14 23:47:02] Checking for update on startup
+[2024-08-14 23:47:02] Checking for available updates...
+[2024-08-14 23:47:02] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-14 23:47:02] Manifest download: send request
+[2024-08-14 23:47:02] Manifest download: waiting for download to finish
+[2024-08-14 23:47:03] Manifest download: finished
+[2024-08-14 23:47:03] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-14 23:47:03] Nothing to do
+[2024-08-14 23:47:03] Verifying installation...
+[2024-08-14 23:47:03] Performing checksum verification of executable files
+[2024-08-14 23:47:04] Verification complete
+[2024-08-14 23:53:11] Shutdown
+
+
+[2024-08-14 23:54:58] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-14 23:54:58] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-08-14 23:54:59] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-14 23:54:59] Using the following download hosts for Public, Realm steamglobal
+[2024-08-14 23:54:59] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-14 23:54:59] Checking for update on startup
+[2024-08-14 23:54:59] Checking for available updates...
+[2024-08-14 23:54:59] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-14 23:54:59] Manifest download: send request
+[2024-08-14 23:54:59] Manifest download: waiting for download to finish
+[2024-08-14 23:54:59] Manifest download: finished
+[2024-08-14 23:54:59] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-14 23:54:59] Nothing to do
+[2024-08-14 23:54:59] Verifying installation...
+[2024-08-14 23:54:59] Performing checksum verification of executable files
+[2024-08-14 23:55:01] Verification complete
+[2024-08-15 12:23:56] Shutdown
+
+
+[2024-08-18 16:09:07] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-18 16:09:07] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-08-18 16:09:07] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-18 16:09:07] Using the following download hosts for Public, Realm steamglobal
+[2024-08-18 16:09:07] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-18 16:09:07] Checking for update on startup
+[2024-08-18 16:09:07] Checking for available updates...
+[2024-08-18 16:09:07] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-18 16:09:07] Manifest download: send request
+[2024-08-18 16:09:08] Manifest download: waiting for download to finish
+[2024-08-18 16:09:08] Manifest download: finished
+[2024-08-18 16:09:08] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-18 16:09:08] Nothing to do
+[2024-08-18 16:09:08] Verifying installation...
+[2024-08-18 16:09:08] Performing checksum verification of executable files
+[2024-08-18 16:09:10] Verification complete
+[2024-08-18 21:05:40] Shutdown
+
+
+[2024-08-19 03:08:50] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-19 03:08:50] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-08-19 03:08:50] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-19 03:08:50] Using the following download hosts for Public, Realm steamglobal
+[2024-08-19 03:08:50] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-19 03:08:50] Checking for update on startup
+[2024-08-19 03:08:50] Checking for available updates...
+[2024-08-19 03:08:50] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-19 03:08:50] Manifest download: send request
+[2024-08-19 03:08:51] Manifest download: waiting for download to finish
+[2024-08-19 03:08:51] Manifest download: finished
+[2024-08-19 03:08:51] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-19 03:08:51] Nothing to do
+[2024-08-19 03:08:51] Verifying installation...
+[2024-08-19 03:08:51] Performing checksum verification of executable files
+[2024-08-19 03:08:52] Verification complete
+[2024-08-19 03:23:23] Shutdown
+
+
+[2024-08-20 15:15:58] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-20 15:15:58] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-08-20 15:15:58] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-20 15:15:58] Using the following download hosts for Public, Realm steamglobal
+[2024-08-20 15:15:58] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-20 15:15:58] Checking for update on startup
+[2024-08-20 15:15:58] Checking for available updates...
+[2024-08-20 15:15:58] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-20 15:15:58] Manifest download: send request
+[2024-08-20 15:15:58] Manifest download: waiting for download to finish
+[2024-08-20 15:15:59] Manifest download: finished
+[2024-08-20 15:15:59] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-20 15:15:59] Nothing to do
+[2024-08-20 15:15:59] Verifying installation...
+[2024-08-20 15:15:59] Performing checksum verification of executable files
+[2024-08-20 15:16:00] Verification complete
+[2024-08-20 15:20:33] Shutdown
+
+
+[2024-08-21 22:49:13] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-21 22:49:13] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-08-21 22:49:13] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-21 22:49:13] Using the following download hosts for Public, Realm steamglobal
+[2024-08-21 22:49:13] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-21 22:49:13] Checking for update on startup
+[2024-08-21 22:49:13] Checking for available updates...
+[2024-08-21 22:49:13] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-21 22:49:14] Manifest download: send request
+[2024-08-21 22:49:14] Manifest download: waiting for download to finish
+[2024-08-21 22:49:14] Manifest download: finished
+[2024-08-21 22:49:14] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-21 22:49:14] Nothing to do
+[2024-08-21 22:49:14] Verifying installation...
+[2024-08-21 22:49:14] Performing checksum verification of executable files
+[2024-08-21 22:49:16] Verification complete
+[2024-08-21 23:02:17] Shutdown
+
+
+[2024-08-25 15:48:23] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-25 15:48:23] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-08-25 15:48:23] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-25 15:48:23] Using the following download hosts for Public, Realm steamglobal
+[2024-08-25 15:48:23] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-25 15:48:23] Checking for update on startup
+[2024-08-25 15:48:23] Checking for available updates...
+[2024-08-25 15:48:23] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-25 15:48:23] Manifest download: send request
+[2024-08-25 15:48:23] Manifest download: waiting for download to finish
+[2024-08-25 15:48:23] Manifest download: finished
+[2024-08-25 15:48:23] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-25 15:48:23] Nothing to do
+[2024-08-25 15:48:23] Verifying installation...
+[2024-08-25 15:48:23] Performing checksum verification of executable files
+[2024-08-25 15:48:25] Verification complete
+[2024-08-25 15:55:01] Shutdown
+
+
+[2024-08-27 22:35:24] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-27 22:35:24] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-08-27 22:35:25] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-27 22:35:25] Using the following download hosts for Public, Realm steamglobal
+[2024-08-27 22:35:25] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-27 22:35:25] Checking for update on startup
+[2024-08-27 22:35:25] Checking for available updates...
+[2024-08-27 22:35:25] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-27 22:35:25] Manifest download: send request
+[2024-08-27 22:35:25] Manifest download: waiting for download to finish
+[2024-08-27 22:35:25] Manifest download: finished
+[2024-08-27 22:35:25] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-27 22:35:25] Nothing to do
+[2024-08-27 22:35:25] Verifying installation...
+[2024-08-27 22:35:25] Performing checksum verification of executable files
+[2024-08-27 22:35:27] Verification complete
+[2024-08-27 22:40:26] Shutdown
+
+
+[2024-08-30 21:57:17] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-30 21:57:17] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-08-30 21:57:18] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-30 21:57:18] Using the following download hosts for Public, Realm steamglobal
+[2024-08-30 21:57:18] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-30 21:57:18] Checking for update on startup
+[2024-08-30 21:57:18] Checking for available updates...
+[2024-08-30 21:57:18] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-30 21:57:18] Manifest download: send request
+[2024-08-30 21:57:18] Manifest download: waiting for download to finish
+[2024-08-30 21:57:18] Manifest download: finished
+[2024-08-30 21:57:18] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-30 21:57:18] Nothing to do
+[2024-08-30 21:57:18] Verifying installation...
+[2024-08-30 21:57:18] Performing checksum verification of executable files
+[2024-08-30 21:57:20] Verification complete
+[2024-08-30 22:02:12] Shutdown
+
+
+[2024-09-01 15:54:38] Startup - updater built Jul 16 2024 16:23:50
+[2024-09-01 15:54:38] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-09-01 15:54:38] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-09-01 15:54:38] Using the following download hosts for Public, Realm steamglobal
+[2024-09-01 15:54:38] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-09-01 15:54:38] Checking for update on startup
+[2024-09-01 15:54:38] Checking for available updates...
+[2024-09-01 15:54:38] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-09-01 15:54:38] Manifest download: send request
+[2024-09-01 15:54:39] Manifest download: waiting for download to finish
+[2024-09-01 15:54:39] Manifest download: finished
+[2024-09-01 15:54:39] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-09-01 15:54:39] Nothing to do
+[2024-09-01 15:54:39] Verifying installation...
+[2024-09-01 15:54:39] Performing checksum verification of executable files
+[2024-09-01 15:54:40] Verification complete
+[2024-09-01 16:02:56] Shutdown
+
+
+[2024-09-01 23:19:09] Startup - updater built Jul 16 2024 16:23:50
+[2024-09-01 23:19:09] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-09-01 23:19:10] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-09-01 23:19:10] Using the following download hosts for Public, Realm steamglobal
+[2024-09-01 23:19:10] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-09-01 23:19:10] Checking for update on startup
+[2024-09-01 23:19:10] Checking for available updates...
+[2024-09-01 23:19:10] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-09-01 23:19:10] Manifest download: send request
+[2024-09-01 23:19:10] Manifest download: waiting for download to finish
+[2024-09-01 23:19:10] Manifest download: finished
+[2024-09-01 23:19:10] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-09-01 23:19:10] Nothing to do
+[2024-09-01 23:19:10] Verifying installation...
+[2024-09-01 23:19:10] Performing checksum verification of executable files
+[2024-09-01 23:19:12] Verification complete
+[2024-09-01 23:28:55] Shutdown
+
+
+[2024-09-02 00:30:55] Startup - updater built Jul 16 2024 16:23:50
+[2024-09-02 00:30:55] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-09-02 00:30:55] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-09-02 00:30:55] Using the following download hosts for Public, Realm steamglobal
+[2024-09-02 00:30:55] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-09-02 00:30:55] Checking for update on startup
+[2024-09-02 00:30:55] Checking for available updates...
+[2024-09-02 00:30:55] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-09-02 00:30:55] Manifest download: send request
+[2024-09-02 00:30:55] Manifest download: waiting for download to finish
+[2024-09-02 00:30:55] Manifest download: finished
+[2024-09-02 00:30:55] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-09-02 00:30:55] Nothing to do
+[2024-09-02 00:30:55] Verifying installation...
+[2024-09-02 00:30:55] Performing checksum verification of executable files
+[2024-09-02 00:30:55] Verification complete
+[2024-09-02 00:34:57] Shutdown
+
+
+[2024-09-02 16:26:13] Startup - updater built Jul 16 2024 16:23:50
+[2024-09-02 16:26:13] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-09-02 16:26:14] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-09-02 16:26:14] Using the following download hosts for Public, Realm steamglobal
+[2024-09-02 16:26:14] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-09-02 16:26:14] Checking for update on startup
+[2024-09-02 16:26:14] Checking for available updates...
+[2024-09-02 16:26:14] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-09-02 16:26:14] Manifest download: send request
+[2024-09-02 16:26:14] Manifest download: waiting for download to finish
+[2024-09-02 16:26:14] Manifest download: finished
+[2024-09-02 16:26:14] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-09-02 16:26:14] Nothing to do
+[2024-09-02 16:26:14] Verifying installation...
+[2024-09-02 16:26:14] Performing checksum verification of executable files
+[2024-09-02 16:26:16] Verification complete
+[2024-09-02 16:32:02] Shutdown
+
+
+[2024-09-04 22:24:04] Startup - updater built Jul 16 2024 16:23:50
+[2024-09-04 22:24:04] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-09-04 22:24:04] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-09-04 22:24:04] Using the following download hosts for Public, Realm steamglobal
+[2024-09-04 22:24:04] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-09-04 22:24:04] Checking for update on startup
+[2024-09-04 22:24:04] Checking for available updates...
+[2024-09-04 22:24:04] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-09-04 22:24:04] Manifest download: send request
+[2024-09-04 22:24:04] Manifest download: waiting for download to finish
+[2024-09-04 22:24:05] Manifest download: finished
+[2024-09-04 22:24:05] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-09-04 22:24:05] Nothing to do
+[2024-09-04 22:24:05] Verifying installation...
+[2024-09-04 22:24:05] Performing checksum verification of executable files
+[2024-09-04 22:24:06] Verification complete
+[2024-09-04 22:35:19] Shutdown
+
+
+[2024-09-05 13:35:02] Startup - updater built Jul 16 2024 16:23:50
+[2024-09-05 13:35:02] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-09-05 13:35:03] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-09-05 13:35:03] Using the following download hosts for Public, Realm steamglobal
+[2024-09-05 13:35:03] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-09-05 13:35:03] Checking for update on startup
+[2024-09-05 13:35:03] Checking for available updates...
+[2024-09-05 13:35:03] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-09-05 13:35:03] Manifest download: send request
+[2024-09-05 13:35:03] Manifest download: waiting for download to finish
+[2024-09-05 13:35:03] Manifest download: finished
+[2024-09-05 13:35:03] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-09-05 13:35:03] Nothing to do
+[2024-09-05 13:35:03] Verifying installation...
+[2024-09-05 13:35:03] Performing checksum verification of executable files
+[2024-09-05 13:35:05] Verification complete
+[2024-09-05 14:38:41] Shutdown
+
+
+[2024-09-08 21:31:38] Startup - updater built Jul 16 2024 16:23:50
+[2024-09-08 21:31:38] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-09-08 21:31:38] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-09-08 21:31:38] Using the following download hosts for Public, Realm steamglobal
+[2024-09-08 21:31:38] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-09-08 21:31:38] Checking for update on startup
+[2024-09-08 21:31:38] Checking for available updates...
+[2024-09-08 21:31:38] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-09-08 21:31:38] Manifest download: send request
+[2024-09-08 21:31:39] Manifest download: waiting for download to finish
+[2024-09-08 21:31:39] Manifest download: finished
+[2024-09-08 21:31:39] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-09-08 21:31:39] Nothing to do
+[2024-09-08 21:31:39] Verifying installation...
+[2024-09-08 21:31:39] Performing checksum verification of executable files
+[2024-09-08 21:31:41] Verification complete
+[2024-09-09 00:03:52] Shutdown
+
+
+[2024-10-27 13:07:13] Startup - updater built Jul 16 2024 16:23:50
+[2024-10-27 13:07:13] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-10-27 13:07:13] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-10-27 13:07:13] Using the following download hosts for Public, Realm steamglobal
+[2024-10-27 13:07:13] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-10-27 13:07:13] Checking for update on startup
+[2024-10-27 13:07:13] Checking for available updates...
+[2024-10-27 13:07:13] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-10-27 13:07:13] Manifest download: send request
+[2024-10-27 13:07:13] Manifest download: waiting for download to finish
+[2024-10-27 13:07:14] Manifest download: finished
+[2024-10-27 13:07:14] Downloaded new manifest: /client/steam_cmd_win32 version 1728594755, installed version 1721172922, existing pending version 0
+[2024-10-27 13:07:14] Package file steamcmd_public_all.zip.083e7b28851f9483f62f1cff344691cb033e36e0 missing or incorrect size
+[2024-10-27 13:07:14] Package file steamcmd_bins_win32.zip.vz.16e9c40c3c0b6333291ce5b6bfc2c7dbe756d5db_13299499 missing or incorrect size
+[2024-10-27 13:07:14] Package file steamcmd_steamservice_win32.zip.vz.70b4c7537a0de8be0cb4de4ed2f9111b774eb98b_1696892 missing or incorrect size
+[2024-10-27 13:07:14] Package file steamcmd_steamerrorreporter_win32.zip.e3e80bc519a1298db4f1f300a3037c174fc9d393 missing or incorrect size
+[2024-10-27 13:07:14] Package file steamcmd_siteserverui_win32.zip.vz.30a539b60e41129d5338c8819f59e6cc0495fbed_27646221 missing or incorrect size
+[2024-10-27 13:07:14] Package file steamcmd_win32.zip.vz.0cde4564b80c3129e9e5103c215b3902475762b6_1692479 missing or incorrect size
+[2024-10-27 13:07:14] Add pending download: https://cdn.steamstatic.com/client/steamcmd_public_all.zip.083e7b28851f9483f62f1cff344691cb033e36e0
+[2024-10-27 13:07:14] Manifest download: send request
+[2024-10-27 13:07:14] Add pending download: https://cdn.steamstatic.com/client/steamcmd_bins_win32.zip.vz.16e9c40c3c0b6333291ce5b6bfc2c7dbe756d5db_13299499
+[2024-10-27 13:07:14] Manifest download: send request
+[2024-10-27 13:07:14] Add pending download: https://cdn.steamstatic.com/client/steamcmd_steamservice_win32.zip.vz.70b4c7537a0de8be0cb4de4ed2f9111b774eb98b_1696892
+[2024-10-27 13:07:14] Manifest download: send request
+[2024-10-27 13:07:14] Add pending download: https://cdn.steamstatic.com/client/steamcmd_steamerrorreporter_win32.zip.e3e80bc519a1298db4f1f300a3037c174fc9d393
+[2024-10-27 13:07:14] Manifest download: send request
+[2024-10-27 13:07:15] Add pending download: https://cdn.steamstatic.com/client/steamcmd_siteserverui_win32.zip.vz.30a539b60e41129d5338c8819f59e6cc0495fbed_27646221
+[2024-10-27 13:07:15] Manifest download: send request
+[2024-10-27 13:07:15] Add pending download: https://cdn.steamstatic.com/client/steamcmd_win32.zip.vz.0cde4564b80c3129e9e5103c215b3902475762b6_1692479
+[2024-10-27 13:07:15] Manifest download: send request
+[2024-10-27 13:07:15] Downloading update (1,309 of 43,514 KB)...
+[2024-10-27 13:07:15] Downloading update (8,055 of 43,514 KB)...
+[2024-10-27 13:07:15] Downloading update (18,368 of 43,514 KB)...
+[2024-10-27 13:07:15] Downloading update (27,574 of 43,514 KB)...
+[2024-10-27 13:07:16] Downloading update (38,001 of 43,514 KB)...
+[2024-10-27 13:07:16] Downloading update (43,514 of 43,514 KB)...
+[2024-10-27 13:07:16] Download complete.
+[2024-10-27 13:07:16] Saving metrics to disk (D:\L4L\DS\SteamCMD\package\steam_cmd_metrics.bin)
+[2024-10-27 13:07:16] uninstalled manifest found in D:\L4L\DS\SteamCMD\package\steam_cmd_win32 (1).
+[2024-10-27 13:07:16] Found pending update
+[2024-10-27 13:07:16] Installing update...
+[2024-10-27 13:07:16] Extracting package...
+[2024-10-27 13:07:18] Installing update...
+[2024-10-27 13:07:18] Committing NTFS transaction (0 non-transactional backup files)
+[2024-10-27 13:07:18] Cleaning up...
+[2024-10-27 13:07:18] Update complete, launching Steamcmd...
+[2024-10-27 13:07:18] Shutdown
+
+
+[2024-10-27 13:07:18] Startup - updater built Oct  9 2024 14:55:30
+[2024-10-27 13:07:18] Startup - Steam Client launched with: D:\L4L\DS\SteamCMD\steamcmd.exe +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-10-27 13:07:18] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-10-27 13:07:18] Loading cached metrics from disk (D:\L4L\DS\SteamCMD\package\steam_cmd_metrics.bin)
+[2024-10-27 13:07:18] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-10-27 13:07:18] Using the following download hosts for Public, Realm steamglobal
+[2024-10-27 13:07:18] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-10-27 13:07:18] Checking for update on startup
+[2024-10-27 13:07:18] Checking for available updates...
+[2024-10-27 13:07:18] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-10-27 13:07:18] Manifest download: send request
+[2024-10-27 13:07:18] Manifest download: waiting for download to finish
+[2024-10-27 13:07:19] Manifest download: finished
+[2024-10-27 13:07:19] Download skipped: /steam_cmd_win32 version 1728594755, installed version 1728594755, existing pending version 0
+[2024-10-27 13:07:19] Nothing to do
+[2024-10-27 13:07:19] Verifying installation...
+[2024-10-27 13:07:19] Performing checksum verification of executable files
+[2024-10-27 13:07:19] Unable to read and verify install manifest D:\L4L\DS\SteamCMD\package\steam_cmd_win32.installed
+[2024-10-27 13:07:19] Verification complete
+[2024-10-27 13:07:19] Downloading update...
+[2024-10-27 13:07:19] Checking for available updates...
+[2024-10-27 13:07:19] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-10-27 13:07:19] Manifest download: send request
+[2024-10-27 13:07:19] Manifest download: waiting for download to finish
+[2024-10-27 13:07:19] Manifest download: finished
+[2024-10-27 13:07:19] Downloaded new manifest: /steam_cmd_win32 version 1728594755, installed version 1728594755, existing pending version 0
+[2024-10-27 13:07:19] Download complete.
+[2024-10-27 13:07:19] uninstalled manifest found in D:\L4L\DS\SteamCMD\package\steam_cmd_win32 (1).
+[2024-10-27 13:07:19] Extracting package...
+[2024-10-27 13:07:21] Installing update...
+[2024-10-27 13:07:21] BCommitUpdatedFiles: renaming stale file ./crashhandler.dll.old -> ./crashhandler.dll.1.delete
+[2024-10-27 13:07:21] BCommitUpdatedFiles: renaming stale file ./steamcmd.exe.old -> ./steamcmd.exe.1.delete
+[2024-10-27 13:07:21] Committing NTFS transaction (0 non-transactional backup files)
+[2024-10-27 13:07:21] Cleaning up...
+[2024-10-27 13:07:21] Update complete, launching Steamcmd...
+[2024-10-27 13:07:21] Shutdown
+
+
+[2024-10-27 13:07:21] Startup - updater built Oct  9 2024 14:55:30
+[2024-10-27 13:07:21] Startup - Steam Client launched with: D:\L4L\DS\SteamCMD\steamcmd.exe +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-10-27 13:07:21] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-10-27 13:07:22] Loading cached metrics from disk (D:\L4L\DS\SteamCMD\package\steam_cmd_metrics.bin)
+[2024-10-27 13:07:22] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-10-27 13:07:22] Using the following download hosts for Public, Realm steamglobal
+[2024-10-27 13:07:22] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-10-27 13:07:22] Checking for update on startup
+[2024-10-27 13:07:22] Checking for available updates...
+[2024-10-27 13:07:22] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-10-27 13:07:22] Manifest download: send request
+[2024-10-27 13:07:22] Manifest download: waiting for download to finish
+[2024-10-27 13:07:22] Manifest download: finished
+[2024-10-27 13:07:22] Download skipped: /steam_cmd_win32 version 1728594755, installed version 1728594755, existing pending version 0
+[2024-10-27 13:07:22] Nothing to do
+[2024-10-27 13:07:22] Verifying installation...
+[2024-10-27 13:07:22] Performing checksum verification of executable files
+[2024-10-27 13:07:24] Verification complete
+[2024-10-27 13:07:26] Clearing cached metrics (D:\L4L\DS\SteamCMD\package\steam_cmd_metrics.bin)
+[2024-10-27 13:07:59] Shutdown
+
+
+[2024-10-27 13:16:26] Startup - updater built Oct  9 2024 14:55:30
+[2024-10-27 13:16:26] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/Dev +login anonymous +app_update 222860 validate
+[2024-10-27 13:16:26] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-10-27 13:16:26] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-10-27 13:16:26] Using the following download hosts for Public, Realm steamglobal
+[2024-10-27 13:16:26] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-10-27 13:16:26] Checking for update on startup
+[2024-10-27 13:16:26] Checking for available updates...
+[2024-10-27 13:16:26] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-10-27 13:16:26] Manifest download: send request
+[2024-10-27 13:16:26] Manifest download: waiting for download to finish
+[2024-10-27 13:16:27] Manifest download: finished
+[2024-10-27 13:16:27] Download skipped: /steam_cmd_win32 version 1728594755, installed version 1728594755, existing pending version 0
+[2024-10-27 13:16:27] Nothing to do
+[2024-10-27 13:16:27] Verifying installation...
+[2024-10-27 13:16:27] Performing checksum verification of executable files
+[2024-10-27 13:16:27] Verification complete
+[2024-10-27 13:16:38] Shutdown
+
+
+[2024-10-28 22:55:28] Startup - updater built Oct  9 2024 14:55:30
+[2024-10-28 22:55:28] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-10-28 22:55:28] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-10-28 22:55:28] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-10-28 22:55:28] Using the following download hosts for Public, Realm steamglobal
+[2024-10-28 22:55:28] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-10-28 22:55:28] Checking for update on startup
+[2024-10-28 22:55:28] Checking for available updates...
+[2024-10-28 22:55:28] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-10-28 22:55:28] Manifest download: send request
+[2024-10-28 22:55:28] Manifest download: waiting for download to finish
+[2024-10-28 22:55:29] Manifest download: finished
+[2024-10-28 22:55:29] Download skipped: /steam_cmd_win32 version 1728594755, installed version 1728594755, existing pending version 0
+[2024-10-28 22:55:29] Nothing to do
+[2024-10-28 22:55:29] Verifying installation...
+[2024-10-28 22:55:29] Performing checksum verification of executable files
+[2024-10-28 22:55:31] Verification complete
+
+
+[2024-10-28 22:56:20] Startup - updater built Oct  9 2024 14:55:30
+[2024-10-28 22:56:20] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-10-28 22:56:20] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-10-28 22:56:20] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-10-28 22:56:20] Using the following download hosts for Public, Realm steamglobal
+[2024-10-28 22:56:20] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-10-28 22:56:20] Checking for update on startup
+[2024-10-28 22:56:20] Checking for available updates...
+[2024-10-28 22:56:20] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-10-28 22:56:20] Manifest download: send request
+[2024-10-28 22:56:20] Manifest download: waiting for download to finish
+[2024-10-28 22:56:21] Manifest download: finished
+[2024-10-28 22:56:21] Download skipped: /steam_cmd_win32 version 1728594755, installed version 1728594755, existing pending version 0
+[2024-10-28 22:56:21] Nothing to do
+[2024-10-28 22:56:21] Verifying installation...
+[2024-10-28 22:56:21] Performing checksum verification of executable files
+[2024-10-28 22:56:21] Verification complete
+[2024-10-28 23:01:00] Shutdown
+
+
+[2024-10-30 17:12:42] Startup - updater built Oct  9 2024 14:55:30
+[2024-10-30 17:12:42] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-10-30 17:12:42] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-10-30 17:12:43] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-10-30 17:12:43] Using the following download hosts for Public, Realm steamglobal
+[2024-10-30 17:12:43] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-10-30 17:12:43] Checking for update on startup
+[2024-10-30 17:12:43] Checking for available updates...
+[2024-10-30 17:12:43] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-10-30 17:12:43] Manifest download: send request
+[2024-10-30 17:12:43] Manifest download: waiting for download to finish
+[2024-10-30 17:12:43] Manifest download: finished
+[2024-10-30 17:12:43] Download skipped: /steam_cmd_win32 version 1728594755, installed version 1728594755, existing pending version 0
+[2024-10-30 17:12:43] Nothing to do
+[2024-10-30 17:12:43] Verifying installation...
+[2024-10-30 17:12:43] Performing checksum verification of executable files
+[2024-10-30 17:12:45] Verification complete
+[2024-10-30 17:19:14] Shutdown
+
+
+[2024-10-31 18:44:34] Startup - updater built Oct  9 2024 14:55:30
+[2024-10-31 18:44:34] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-10-31 18:44:34] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-10-31 18:44:35] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-10-31 18:44:35] Using the following download hosts for Public, Realm steamglobal
+[2024-10-31 18:44:35] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-10-31 18:44:35] Checking for update on startup
+[2024-10-31 18:44:35] Checking for available updates...
+[2024-10-31 18:44:35] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-10-31 18:44:35] Manifest download: send request
+[2024-10-31 18:44:35] Manifest download: waiting for download to finish
+[2024-10-31 18:44:35] Manifest download: finished
+[2024-10-31 18:44:35] Download skipped: /steam_cmd_win32 version 1728594755, installed version 1728594755, existing pending version 0
+[2024-10-31 18:44:35] Nothing to do
+[2024-10-31 18:44:35] Verifying installation...
+[2024-10-31 18:44:35] Performing checksum verification of executable files
+[2024-10-31 18:44:38] Verification complete
+[2024-10-31 21:06:31] Shutdown
+
+
+[2024-11-02 02:20:34] Startup - updater built Oct  9 2024 14:55:30
+[2024-11-02 02:20:34] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-11-02 02:20:34] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-11-02 02:20:35] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-11-02 02:20:35] Using the following download hosts for Public, Realm steamglobal
+[2024-11-02 02:20:35] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-11-02 02:20:35] Checking for update on startup
+[2024-11-02 02:20:35] Checking for available updates...
+[2024-11-02 02:20:35] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-11-02 02:20:35] Manifest download: send request
+[2024-11-02 02:20:35] Manifest download: waiting for download to finish
+[2024-11-02 02:20:35] Manifest download: finished
+[2024-11-02 02:20:35] Download skipped: /steam_cmd_win32 version 1728594755, installed version 1728594755, existing pending version 0
+[2024-11-02 02:20:35] Nothing to do
+[2024-11-02 02:20:35] Verifying installation...
+[2024-11-02 02:20:35] Performing checksum verification of executable files
+[2024-11-02 02:20:38] Verification complete
+[2024-11-02 18:35:36] Shutdown
+
+
+[2024-11-09 23:29:11] Startup - updater built Oct  9 2024 14:55:30
+[2024-11-09 23:29:11] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-11-09 23:29:11] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-11-09 23:29:11] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-11-09 23:29:11] Using the following download hosts for Public, Realm steamglobal
+[2024-11-09 23:29:11] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-11-09 23:29:11] Checking for update on startup
+[2024-11-09 23:29:11] Checking for available updates...
+[2024-11-09 23:29:11] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-11-09 23:29:11] Manifest download: send request
+[2024-11-09 23:29:11] Manifest download: waiting for download to finish
+[2024-11-09 23:29:12] Manifest download: finished
+[2024-11-09 23:29:12] Downloaded new manifest: /steam_cmd_win32 version 1730854361, installed version 1728594755, existing pending version 0
+[2024-11-09 23:29:12] Package file steamcmd_public_all.zip.1881b33a7b35894ccfc6c9c2ecb96482dde8c056 missing or incorrect size
+[2024-11-09 23:29:12] Package file steamcmd_bins_win32.zip.vz.ce80af3c39df8c300067fb1b1986521225c3b431_6448520 missing or incorrect size
+[2024-11-09 23:29:12] Package file steamcmd_steamservice_win32.zip.vz.d2637a1f944b8cd7288c0fc42d28aaa897864f08_1698177 missing or incorrect size
+[2024-11-09 23:29:12] Package file steamcmd_steamerrorreporter_win32.zip.e6b8c055f3eebe2353a4337732b99fd16e987fc1 missing or incorrect size
+[2024-11-09 23:29:12] Package file steamcmd_siteserverui_win32.zip.vz.a3bd45990733cde0942394745300bb583dbc02f7_27669444 missing or incorrect size
+[2024-11-09 23:29:12] Package file steamcmd_win32.zip.vz.0b6d414c2fa741ff89cdbc7134797071be64350b_1694915 missing or incorrect size
+[2024-11-09 23:29:12] Add pending download: https://client-update.steamstatic.com/steamcmd_public_all.zip.1881b33a7b35894ccfc6c9c2ecb96482dde8c056
+[2024-11-09 23:29:12] Manifest download: send request
+[2024-11-09 23:29:12] Add pending download: https://client-update.steamstatic.com/steamcmd_bins_win32.zip.vz.ce80af3c39df8c300067fb1b1986521225c3b431_6448520
+[2024-11-09 23:29:12] Manifest download: send request
+[2024-11-09 23:29:12] Add pending download: https://client-update.steamstatic.com/steamcmd_steamservice_win32.zip.vz.d2637a1f944b8cd7288c0fc42d28aaa897864f08_1698177
+[2024-11-09 23:29:12] Manifest download: send request
+[2024-11-09 23:29:12] Add pending download: https://client-update.steamstatic.com/steamcmd_steamerrorreporter_win32.zip.e6b8c055f3eebe2353a4337732b99fd16e987fc1
+[2024-11-09 23:29:12] Manifest download: send request
+[2024-11-09 23:29:12] Add pending download: https://client-update.steamstatic.com/steamcmd_siteserverui_win32.zip.vz.a3bd45990733cde0942394745300bb583dbc02f7_27669444
+[2024-11-09 23:29:12] Manifest download: send request
+[2024-11-09 23:29:12] Add pending download: https://client-update.steamstatic.com/steamcmd_win32.zip.vz.0b6d414c2fa741ff89cdbc7134797071be64350b_1694915
+[2024-11-09 23:29:12] Manifest download: send request
+[2024-11-09 23:29:12] Downloading update (41 of 36,851 KB)...
+[2024-11-09 23:29:12] Downloading update (235 of 36,851 KB)...
+[2024-11-09 23:29:12] Downloading update (3,219 of 36,851 KB)...
+[2024-11-09 23:29:13] Downloading update (14,694 of 36,851 KB)...
+[2024-11-09 23:29:13] Downloading update (29,334 of 36,851 KB)...
+[2024-11-09 23:29:13] Downloading update (36,391 of 36,851 KB)...
+[2024-11-09 23:29:14] Downloading update (36,711 of 36,851 KB)...
+[2024-11-09 23:29:14] Downloading update (36,791 of 36,851 KB)...
+[2024-11-09 23:29:14] Downloading update (36,851 of 36,851 KB)...
+[2024-11-09 23:29:14] Download complete.
+[2024-11-09 23:29:14] Saving metrics to disk (D:\L4L\DS\SteamCMD\package\steam_cmd_metrics.bin)
+[2024-11-09 23:29:14] uninstalled manifest found in D:\L4L\DS\SteamCMD\package\steam_cmd_win32 (1).
+[2024-11-09 23:29:14] Found pending update
+[2024-11-09 23:29:14] Installing update...
+[2024-11-09 23:29:14] Extracting package...
+[2024-11-09 23:29:16] Installing update...
+[2024-11-09 23:29:16] Committing NTFS transaction (0 non-transactional backup files)
+[2024-11-09 23:29:16] Cleaning up...
+[2024-11-09 23:29:16] Update complete, launching Steamcmd...
+[2024-11-09 23:29:16] Shutdown
+
+
+[2024-11-09 23:29:16] Startup - updater built Nov  5 2024 13:33:47
+[2024-11-09 23:29:16] Startup - Steam Client launched with: D:\L4L\DS\SteamCMD\steamcmd.exe +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-11-09 23:29:16] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-11-09 23:29:16] Loading cached metrics from disk (D:\L4L\DS\SteamCMD\package\steam_cmd_metrics.bin)
+[2024-11-09 23:29:16] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-11-09 23:29:16] Using the following download hosts for Public, Realm steamglobal
+[2024-11-09 23:29:16] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-11-09 23:29:16] Checking for update on startup
+[2024-11-09 23:29:16] Checking for available updates...
+[2024-11-09 23:29:16] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-11-09 23:29:16] Manifest download: send request
+[2024-11-09 23:29:16] Manifest download: waiting for download to finish
+[2024-11-09 23:29:17] Manifest download: finished
+[2024-11-09 23:29:17] Download skipped by HTTP 304 Not Modified
+[2024-11-09 23:29:17] Nothing to do
+[2024-11-09 23:29:17] Verifying installation...
+[2024-11-09 23:29:17] Performing checksum verification of executable files
+[2024-11-09 23:29:18] Verification complete
+[2024-11-09 23:29:21] Clearing cached metrics (D:\L4L\DS\SteamCMD\package\steam_cmd_metrics.bin)
+[2024-11-09 23:35:29] Shutdown
+
+
+[2024-11-23 09:07:11] Startup - updater built Nov  5 2024 13:33:47
+[2024-11-23 09:07:11] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-11-23 09:07:11] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-11-23 09:07:11] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-11-23 09:07:11] Using the following download hosts for Public, Realm steamglobal
+[2024-11-23 09:07:11] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-11-23 09:07:11] Checking for update on startup
+[2024-11-23 09:07:11] Checking for available updates...
+[2024-11-23 09:07:11] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-11-23 09:07:11] Manifest download: send request
+[2024-11-23 09:07:11] Manifest download: waiting for download to finish
+[2024-11-23 09:07:11] Manifest download: finished
+[2024-11-23 09:07:11] Downloaded new manifest: /steam_cmd_win32 version 1731433425, installed version 1730854361, existing pending version 0
+[2024-11-23 09:07:11] Package file steamcmd_bins_win32.zip.vz.5d983d982e64c7d9f8673775b387c863e09fe16b_6452007 missing or incorrect size
+[2024-11-23 09:07:11] Package file steamcmd_steamservice_win32.zip.vz.7867264d70513fe4d7c6552260d634c70ca425b9_1698914 missing or incorrect size
+[2024-11-23 09:07:11] Package file steamcmd_steamerrorreporter_win32.zip.4be96d6443f267d45d8473eb4fc1bf2ea9fc4747 missing or incorrect size
+[2024-11-23 09:07:11] Package file steamcmd_win32.zip.vz.1d332d80de3eee618a70a93271e73b74bd2c2ea5_1694646 missing or incorrect size
+[2024-11-23 09:07:11] Add pending download: https://client-update.steamstatic.com/steamcmd_bins_win32.zip.vz.5d983d982e64c7d9f8673775b387c863e09fe16b_6452007
+[2024-11-23 09:07:11] Manifest download: send request
+[2024-11-23 09:07:11] Add pending download: https://client-update.steamstatic.com/steamcmd_steamservice_win32.zip.vz.7867264d70513fe4d7c6552260d634c70ca425b9_1698914
+[2024-11-23 09:07:11] Manifest download: send request
+[2024-11-23 09:07:11] Add pending download: https://client-update.steamstatic.com/steamcmd_steamerrorreporter_win32.zip.4be96d6443f267d45d8473eb4fc1bf2ea9fc4747
+[2024-11-23 09:07:12] Manifest download: send request
+[2024-11-23 09:07:12] Add pending download: https://client-update.steamstatic.com/steamcmd_win32.zip.vz.1d332d80de3eee618a70a93271e73b74bd2c2ea5_1694646
+[2024-11-23 09:07:12] Manifest download: send request
+[2024-11-23 09:07:12] Downloading update (96 of 9,782 KB)...
+[2024-11-23 09:07:12] Downloading update (5,696 of 9,782 KB)...
+[2024-11-23 09:07:12] Downloading update (9,170 of 9,782 KB)...
+[2024-11-23 09:07:12] Downloading update (9,782 of 9,782 KB)...
+[2024-11-23 09:07:12] Download complete.
+[2024-11-23 09:07:12] Saving metrics to disk (D:\L4L\DS\SteamCMD\package\steam_cmd_metrics.bin)
+[2024-11-23 09:07:12] uninstalled manifest found in D:\L4L\DS\SteamCMD\package\steam_cmd_win32 (1).
+[2024-11-23 09:07:12] Found pending update
+[2024-11-23 09:07:12] Installing update...
+[2024-11-23 09:07:12] Extracting package...
+[2024-11-23 09:07:14] Installing update...
+[2024-11-23 09:07:14] Committing NTFS transaction (0 non-transactional backup files)
+[2024-11-23 09:07:14] Cleaning up...
+[2024-11-23 09:07:14] Update complete, launching Steamcmd...
+[2024-11-23 09:07:14] Shutdown
+
+
+[2024-11-23 09:07:14] Startup - updater built Nov 12 2024 09:09:46
+[2024-11-23 09:07:14] Startup - Steam Client launched with: D:\L4L\DS\SteamCMD\steamcmd.exe +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-11-23 09:07:14] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-11-23 09:07:14] Loading cached metrics from disk (D:\L4L\DS\SteamCMD\package\steam_cmd_metrics.bin)
+[2024-11-23 09:07:14] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-11-23 09:07:14] Using the following download hosts for Public, Realm steamglobal
+[2024-11-23 09:07:14] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-11-23 09:07:14] Checking for update on startup
+[2024-11-23 09:07:14] Checking for available updates...
+[2024-11-23 09:07:14] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-11-23 09:07:14] Manifest download: send request
+[2024-11-23 09:07:15] Manifest download: waiting for download to finish
+[2024-11-23 09:07:15] Manifest download: finished
+[2024-11-23 09:07:15] Download skipped: /steam_cmd_win32 version 1731433425, installed version 1731433425, existing pending version 0
+[2024-11-23 09:07:15] Nothing to do
+[2024-11-23 09:07:15] Verifying installation...
+[2024-11-23 09:07:15] Performing checksum verification of executable files
+[2024-11-23 09:07:17] Verification complete
+[2024-11-23 09:07:19] Clearing cached metrics (D:\L4L\DS\SteamCMD\package\steam_cmd_metrics.bin)
+[2024-11-23 09:31:37] Shutdown
+
+
+[2024-11-23 10:07:01] Startup - updater built Nov 12 2024 09:09:46
+[2024-11-23 10:07:01] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-11-23 10:07:01] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-11-23 10:07:02] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-11-23 10:07:02] Using the following download hosts for Public, Realm steamglobal
+[2024-11-23 10:07:02] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-11-23 10:07:02] Checking for update on startup
+[2024-11-23 10:07:02] Checking for available updates...
+[2024-11-23 10:07:02] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-11-23 10:07:02] Manifest download: send request
+[2024-11-23 10:07:02] Manifest download: waiting for download to finish
+[2024-11-23 10:07:02] Manifest download: finished
+[2024-11-23 10:07:02] Download skipped: /steam_cmd_win32 version 1731433425, installed version 1731433425, existing pending version 0
+[2024-11-23 10:07:02] Nothing to do
+[2024-11-23 10:07:02] Verifying installation...
+[2024-11-23 10:07:02] Performing checksum verification of executable files
+[2024-11-23 10:07:02] Verification complete
+[2024-11-23 10:36:56] Shutdown
+
+
+[2024-11-23 17:18:16] Startup - updater built Nov 12 2024 09:09:46
+[2024-11-23 17:18:16] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-11-23 17:18:16] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-11-23 17:18:17] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-11-23 17:18:17] Using the following download hosts for Public, Realm steamglobal
+[2024-11-23 17:18:17] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-11-23 17:18:17] Checking for update on startup
+[2024-11-23 17:18:17] Checking for available updates...
+[2024-11-23 17:18:17] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-11-23 17:18:17] Manifest download: send request
+[2024-11-23 17:18:17] Manifest download: waiting for download to finish
+[2024-11-23 17:18:17] Manifest download: finished
+[2024-11-23 17:18:17] Download skipped: /steam_cmd_win32 version 1731433425, installed version 1731433425, existing pending version 0
+[2024-11-23 17:18:17] Nothing to do
+[2024-11-23 17:18:17] Verifying installation...
+[2024-11-23 17:18:17] Performing checksum verification of executable files
+[2024-11-23 17:18:19] Verification complete
+[2024-11-23 17:26:24] Shutdown
+
+
+[2024-11-24 17:53:03] Startup - updater built Nov 12 2024 09:09:46
+[2024-11-24 17:53:03] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-11-24 17:53:03] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-11-24 17:53:03] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-11-24 17:53:03] Using the following download hosts for Public, Realm steamglobal
+[2024-11-24 17:53:03] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-11-24 17:53:03] Checking for update on startup
+[2024-11-24 17:53:03] Checking for available updates...
+[2024-11-24 17:53:03] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-11-24 17:53:03] Manifest download: send request
+[2024-11-24 17:53:03] Manifest download: waiting for download to finish
+[2024-11-24 17:53:04] Manifest download: finished
+[2024-11-24 17:53:04] Download skipped: /steam_cmd_win32 version 1731433425, installed version 1731433425, existing pending version 0
+[2024-11-24 17:53:04] Nothing to do
+[2024-11-24 17:53:04] Verifying installation...
+[2024-11-24 17:53:04] Performing checksum verification of executable files
+[2024-11-24 17:53:05] Verification complete
+[2024-11-24 18:01:04] Shutdown
+
+
+[2024-11-25 17:28:40] Startup - updater built Nov 12 2024 09:09:46
+[2024-11-25 17:28:40] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-11-25 17:28:40] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-11-25 17:28:41] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-11-25 17:28:41] Using the following download hosts for Public, Realm steamglobal
+[2024-11-25 17:28:41] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-11-25 17:28:41] Checking for update on startup
+[2024-11-25 17:28:41] Checking for available updates...
+[2024-11-25 17:28:41] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-11-25 17:28:41] Manifest download: send request
+[2024-11-25 17:28:41] Manifest download: waiting for download to finish
+[2024-11-25 17:28:41] Manifest download: finished
+[2024-11-25 17:28:41] Download skipped: /steam_cmd_win32 version 1731433425, installed version 1731433425, existing pending version 0
+[2024-11-25 17:28:41] Nothing to do
+[2024-11-25 17:28:41] Verifying installation...
+[2024-11-25 17:28:41] Performing checksum verification of executable files
+[2024-11-25 17:28:43] Verification complete
+[2024-11-25 17:32:52] Shutdown
+
+
+[2024-12-02 23:07:34] Startup - updater built Nov 12 2024 09:09:46
+[2024-12-02 23:07:34] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-12-02 23:07:34] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-12-02 23:07:35] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-12-02 23:07:35] Using the following download hosts for Public, Realm steamglobal
+[2024-12-02 23:07:35] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-12-02 23:07:35] Checking for update on startup
+[2024-12-02 23:07:35] Checking for available updates...
+[2024-12-02 23:07:35] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-12-02 23:07:35] Manifest download: send request
+[2024-12-02 23:07:35] Manifest download: waiting for download to finish
+[2024-12-02 23:07:35] Manifest download: finished
+[2024-12-02 23:07:35] Download skipped: /steam_cmd_win32 version 1731433425, installed version 1731433425, existing pending version 0
+[2024-12-02 23:07:35] Nothing to do
+[2024-12-02 23:07:35] Verifying installation...
+[2024-12-02 23:07:35] Performing checksum verification of executable files
+[2024-12-02 23:07:38] Verification complete
+[2024-12-02 23:14:49] Shutdown
+
+
+[2024-12-03 02:48:00] Startup - updater built Nov 12 2024 09:09:46
+[2024-12-03 02:48:00] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-12-03 02:48:00] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-12-03 02:48:00] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-12-03 02:48:00] Using the following download hosts for Public, Realm steamglobal
+[2024-12-03 02:48:00] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-12-03 02:48:00] Checking for update on startup
+[2024-12-03 02:48:00] Checking for available updates...
+[2024-12-03 02:48:00] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-12-03 02:48:00] Manifest download: send request
+[2024-12-03 02:48:00] Manifest download: waiting for download to finish
+[2024-12-03 02:48:01] Manifest download: finished
+[2024-12-03 02:48:01] Download skipped: /steam_cmd_win32 version 1731433425, installed version 1731433425, existing pending version 0
+[2024-12-03 02:48:01] Nothing to do
+[2024-12-03 02:48:01] Verifying installation...
+[2024-12-03 02:48:01] Performing checksum verification of executable files
+[2024-12-03 02:48:03] Verification complete
+[2024-12-03 02:52:35] Shutdown
+
+
+[2024-12-03 02:52:41] Startup - updater built Nov 12 2024 09:09:46
+[2024-12-03 02:52:41] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-12-03 02:52:41] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-12-03 02:52:41] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-12-03 02:52:41] Using the following download hosts for Public, Realm steamglobal
+[2024-12-03 02:52:41] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-12-03 02:52:41] Checking for update on startup
+[2024-12-03 02:52:41] Checking for available updates...
+[2024-12-03 02:52:41] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-12-03 02:52:41] Manifest download: send request
+[2024-12-03 02:52:41] Manifest download: waiting for download to finish
+[2024-12-03 02:52:41] Manifest download: finished
+[2024-12-03 02:52:41] Download skipped: /steam_cmd_win32 version 1731433425, installed version 1731433425, existing pending version 0
+[2024-12-03 02:52:41] Nothing to do
+[2024-12-03 02:52:41] Verifying installation...
+[2024-12-03 02:52:41] Performing checksum verification of executable files
+[2024-12-03 02:52:42] Verification complete
+[2024-12-03 02:57:55] Shutdown
+
+
+[2024-12-05 15:55:44] Startup - updater built Nov 12 2024 09:09:46
+[2024-12-05 15:55:44] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-12-05 15:55:44] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-12-05 15:55:45] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-12-05 15:55:45] Using the following download hosts for Public, Realm steamglobal
+[2024-12-05 15:55:45] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-12-05 15:55:45] Checking for update on startup
+[2024-12-05 15:55:45] Checking for available updates...
+[2024-12-05 15:55:45] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-12-05 15:55:45] Manifest download: send request
+[2024-12-05 15:55:45] Manifest download: waiting for download to finish
+[2024-12-05 15:55:45] Manifest download: finished
+[2024-12-05 15:55:45] Downloaded new manifest: /steam_cmd_win32 version 1733269577, installed version 1731433425, existing pending version 0
+[2024-12-05 15:55:45] Package file steamcmd_bins_win32.zip.vz.fd4f6067ee5ebf967479454d446c7b5473cfcfe2_6448750 missing or incorrect size
+[2024-12-05 15:55:45] Package file steamcmd_steamservice_win32.zip.vz.8b9e8305375e09b8289c746c820c4c1815b7ef87_1698245 missing or incorrect size
+[2024-12-05 15:55:45] Package file steamcmd_steamerrorreporter_win32.zip.5577e2c2faaa808e5a37ffcca51cf0e62636729b missing or incorrect size
+[2024-12-05 15:55:45] Package file steamcmd_win32.zip.vz.2c697f49d3f56a8a1df7863889e1adf68943e215_1693712 missing or incorrect size
+[2024-12-05 15:55:45] Add pending download: https://client-update.steamstatic.com/steamcmd_bins_win32.zip.vz.fd4f6067ee5ebf967479454d446c7b5473cfcfe2_6448750
+[2024-12-05 15:55:45] Manifest download: send request
+[2024-12-05 15:55:45] Add pending download: https://client-update.steamstatic.com/steamcmd_steamservice_win32.zip.vz.8b9e8305375e09b8289c746c820c4c1815b7ef87_1698245
+[2024-12-05 15:55:45] Manifest download: send request
+[2024-12-05 15:55:45] Add pending download: https://client-update.steamstatic.com/steamcmd_steamerrorreporter_win32.zip.5577e2c2faaa808e5a37ffcca51cf0e62636729b
+[2024-12-05 15:55:45] Manifest download: send request
+[2024-12-05 15:55:45] Add pending download: https://client-update.steamstatic.com/steamcmd_win32.zip.vz.2c697f49d3f56a8a1df7863889e1adf68943e215_1693712
+[2024-12-05 15:55:45] Manifest download: send request
+[2024-12-05 15:55:45] Downloading update (13 of 9,778 KB)...
+[2024-12-05 15:55:45] Downloading update (3,406 of 9,778 KB)...
+[2024-12-05 15:55:46] Downloading update (8,560 of 9,778 KB)...
+[2024-12-05 15:55:46] Downloading update (9,216 of 9,778 KB)...
+[2024-12-05 15:55:46] Downloading update (9,778 of 9,778 KB)...
+[2024-12-05 15:55:46] Download complete.
+[2024-12-05 15:55:46] Saving metrics to disk (D:\L4L\DS\SteamCMD\package\steam_cmd_metrics.bin)
+[2024-12-05 15:55:46] uninstalled manifest found in D:\L4L\DS\SteamCMD\package\steam_cmd_win32 (1).
+[2024-12-05 15:55:46] Found pending update
+[2024-12-05 15:55:46] Installing update...
+[2024-12-05 15:55:46] Extracting package...
+[2024-12-05 15:55:48] Installing update...
+[2024-12-05 15:55:48] Committing NTFS transaction (0 non-transactional backup files)
+[2024-12-05 15:55:48] Cleaning up...
+[2024-12-05 15:55:48] Update complete, launching Steamcmd...
+[2024-12-05 15:55:48] Shutdown
+
+
+[2024-12-05 15:55:48] Startup - updater built Dec  2 2024 13:26:44
+[2024-12-05 15:55:48] Startup - Steam Client launched with: D:\L4L\DS\SteamCMD\steamcmd.exe +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-12-05 15:55:48] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-12-05 15:55:48] Loading cached metrics from disk (D:\L4L\DS\SteamCMD\package\steam_cmd_metrics.bin)
+[2024-12-05 15:55:48] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-12-05 15:55:48] Using the following download hosts for Public, Realm steamglobal
+[2024-12-05 15:55:48] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-12-05 15:55:48] Checking for update on startup
+[2024-12-05 15:55:48] Checking for available updates...
+[2024-12-05 15:55:48] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-12-05 15:55:48] Manifest download: send request
+[2024-12-05 15:55:48] Manifest download: waiting for download to finish
+[2024-12-05 15:55:49] Manifest download: finished
+[2024-12-05 15:55:49] Download skipped: /steam_cmd_win32 version 1733269577, installed version 1733269577, existing pending version 0
+[2024-12-05 15:55:49] Nothing to do
+[2024-12-05 15:55:49] Verifying installation...
+[2024-12-05 15:55:49] Performing checksum verification of executable files
+[2024-12-05 15:55:51] Verification complete
+[2024-12-05 15:55:53] Clearing cached metrics (D:\L4L\DS\SteamCMD\package\steam_cmd_metrics.bin)
+[2024-12-05 16:02:14] Shutdown
+
+
+[2024-12-05 16:15:16] Startup - updater built Dec  2 2024 13:26:44
+[2024-12-05 16:15:16] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-12-05 16:15:16] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-12-05 16:15:16] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-12-05 16:15:16] Using the following download hosts for Public, Realm steamglobal
+[2024-12-05 16:15:16] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-12-05 16:15:16] Checking for update on startup
+[2024-12-05 16:15:16] Checking for available updates...
+[2024-12-05 16:15:16] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-12-05 16:15:16] Manifest download: send request
+[2024-12-05 16:15:16] Manifest download: waiting for download to finish
+[2024-12-05 16:15:16] Manifest download: finished
+[2024-12-05 16:15:16] Download skipped: /steam_cmd_win32 version 1733269577, installed version 1733269577, existing pending version 0
+[2024-12-05 16:15:16] Nothing to do
+[2024-12-05 16:15:16] Verifying installation...
+[2024-12-05 16:15:16] Performing checksum verification of executable files
+[2024-12-05 16:15:17] Verification complete
+[2024-12-06 02:12:57] Shutdown
+
+
+[2024-12-11 13:50:00] Startup - updater built Dec  2 2024 13:26:44
+[2024-12-11 13:50:00] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-12-11 13:50:00] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-12-11 13:50:00] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-12-11 13:50:00] Using the following download hosts for Public, Realm steamglobal
+[2024-12-11 13:50:00] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-12-11 13:50:00] Checking for update on startup
+[2024-12-11 13:50:00] Checking for available updates...
+[2024-12-11 13:50:00] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-12-11 13:50:00] Manifest download: send request
+[2024-12-11 13:50:00] Manifest download: waiting for download to finish
+[2024-12-11 13:50:01] Manifest download: finished
+[2024-12-11 13:50:01] Download skipped: /steam_cmd_win32 version 1733269577, installed version 1733269577, existing pending version 0
+[2024-12-11 13:50:01] Nothing to do
+[2024-12-11 13:50:01] Verifying installation...
+[2024-12-11 13:50:01] Performing checksum verification of executable files
+[2024-12-11 13:50:03] Verification complete
+[2024-12-11 14:14:25] Shutdown
+
+
+[2024-12-19 18:16:45] Startup - updater built Dec  2 2024 13:26:44
+[2024-12-19 18:16:45] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../Servers/L4D2 +login anonymous +app_update 222860 validate
+[2024-12-19 18:16:45] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-12-19 18:16:46] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-12-19 18:16:46] Using the following download hosts for Public, Realm steamglobal
+[2024-12-19 18:16:46] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-12-19 18:16:46] Checking for update on startup
+[2024-12-19 18:16:46] Checking for available updates...
+[2024-12-19 18:16:46] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-12-19 18:16:46] Manifest download: send request
+[2024-12-19 18:16:46] Manifest download: waiting for download to finish
+[2024-12-19 18:16:47] Manifest download: finished
+[2024-12-19 18:16:47] Download skipped: /steam_cmd_win32 version 1733269577, installed version 1733269577, existing pending version 0
+[2024-12-19 18:16:47] Nothing to do
+[2024-12-19 18:16:47] Verifying installation...
+[2024-12-19 18:16:47] Performing checksum verification of executable files
+[2024-12-19 18:16:49] Verification complete
+[2024-12-19 18:28:43] Shutdown
+
+
+[2024-12-20 17:09:08] Startup - updater built Dec  2 2024 13:26:44
+[2024-12-20 17:09:08] Startup - Steam Client launched with: "D:\Lega\Setup\Windows\SteamCMD\steamcmd.exe" 
+[2024-12-20 17:09:08] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-12-20 17:09:08] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-12-20 17:09:08] Using the following download hosts for Public, Realm steamglobal
+[2024-12-20 17:09:08] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-12-20 17:09:08] Checking for update on startup
+[2024-12-20 17:09:08] Checking for available updates...
+[2024-12-20 17:09:08] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-12-20 17:09:08] Manifest download: send request
+[2024-12-20 17:09:09] Manifest download: waiting for download to finish
+[2024-12-20 17:09:09] Manifest download: finished
+[2024-12-20 17:09:09] Download skipped: /steam_cmd_win32 version 1733269577, installed version 1733269577, existing pending version 0
+[2024-12-20 17:09:09] Nothing to do
+[2024-12-20 17:09:09] Verifying installation...
+[2024-12-20 17:09:09] Performing checksum verification of executable files
+[2024-12-20 17:09:11] Verification complete
+[2024-12-20 17:09:13] Shutdown
+
+
+[2024-12-20 17:09:17] Startup - updater built Dec  2 2024 13:26:44
+[2024-12-20 17:09:17] Startup - Steam Client launched with: "D:\Lega\Setup\Windows\SteamCMD\steamcmd.exe" 
+[2024-12-20 17:09:17] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-12-20 17:09:17] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-12-20 17:09:17] Using the following download hosts for Public, Realm steamglobal
+[2024-12-20 17:09:17] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-12-20 17:09:17] Checking for update on startup
+[2024-12-20 17:09:17] Checking for available updates...
+[2024-12-20 17:09:17] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-12-20 17:09:17] Manifest download: send request
+[2024-12-20 17:09:17] Manifest download: waiting for download to finish
+[2024-12-20 17:09:17] Manifest download: finished
+[2024-12-20 17:09:17] Download skipped: /steam_cmd_win32 version 1733269577, installed version 1733269577, existing pending version 0
+[2024-12-20 17:09:17] Nothing to do
+[2024-12-20 17:09:17] Verifying installation...
+[2024-12-20 17:09:17] Performing checksum verification of executable files
+[2024-12-20 17:09:17] Verification complete
+[2024-12-20 17:09:22] Shutdown
+
+
+[2024-12-20 17:10:08] Startup - updater built Dec  2 2024 13:26:44
+[2024-12-20 17:10:08] Startup - Steam Client launched with: SteamCMD/steamcmd.exe  +force_install_dir ../DS/L4D2 +login anonymous +app_update 222860 validate
+[2024-12-20 17:10:08] Windows 10.0.22631.0, 0, 2, 256, 1, 48 
+[2024-12-20 17:10:08] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-12-20 17:10:08] Using the following download hosts for Public, Realm steamglobal
+[2024-12-20 17:10:08] 1. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-12-20 17:10:08] Checking for update on startup
+[2024-12-20 17:10:08] Checking for available updates...
+[2024-12-20 17:10:08] Downloading manifest: https://client-update.steamstatic.com/steam_cmd_win32
+[2024-12-20 17:10:08] Manifest download: send request
+[2024-12-20 17:10:09] Manifest download: waiting for download to finish
+[2024-12-20 17:10:09] Manifest download: finished
+[2024-12-20 17:10:09] Download skipped: /steam_cmd_win32 version 1733269577, installed version 1733269577, existing pending version 0
+[2024-12-20 17:10:09] Nothing to do
+[2024-12-20 17:10:09] Verifying installation...
+[2024-12-20 17:10:09] Performing checksum verification of executable files
+[2024-12-20 17:10:09] Verification complete
+[2024-12-20 17:39:10] Shutdown
