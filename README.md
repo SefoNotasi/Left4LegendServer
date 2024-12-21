@@ -6,6 +6,8 @@
 
 > [!TIP]
 > Server guide: [steamcommunity.com/sharedfiles/filedetails/?id=3384448522](https://steamcommunity.com/sharedfiles/filedetails/?id=3384448522)
+>
+> Server maps: [steamcommunity.com/sharedfiles/filedetails/?id=3388609126](https://steamcommunity.com/sharedfiles/filedetails/?id=3388609126)
 
 > [!NOTE]
 > Contact: [steamcommunity.com/id/Notasi](https://steamcommunity.com/id/Notasi)
