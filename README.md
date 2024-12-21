@@ -2,7 +2,7 @@
 > [!IMPORTANT]
 > Server group: [steamcommunity.com/groups/Left4Legend](https://steamcommunity.com/groups/Left4Legend)
 >
-> Server chat: [steamcommunity.com/chat/invite/f0ylovuX](https://steamcommunity.com/chat/invite/f0ylovuX)
+> Server chat: [steamcommunity.com/chat/invite/HWJHvO7g](https://steamcommunity.com/chat/invite/HWJHvO7g)
 
 > [!TIP]
 > Server guide: [steamcommunity.com/sharedfiles/filedetails/?id=3384448522](https://steamcommunity.com/sharedfiles/filedetails/?id=3384448522)
