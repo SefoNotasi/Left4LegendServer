@@ -1,0 +1,33 @@
+[h1][url=https://steamcommunity.com/groups/Left4Legend/announcements/detail/523078230806103442]Оригинал на русском[/url][/h1]
+
+It all started as a hardcore server just for friends who never actually played it ([spoiler]I'll never stop teasing them about it ;D[/spoiler]). It's a story of humble beginnings turned into a full-scale server project with an unending development cycle (including blood, sweat & tears-inducing coding). For the past two years [b]Left 4 Legend[/b] has been reimagined, rebooted, it was evolving and taking shape until finally reaching a point, [b]the release of Left 4 Legend 1.0[/b] 🎉
+
+[h1]What's new?[/h1]
+[list]
+[*] A [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3384448522]complete Left 4 Legend guide[/url] has been created (ENG coming soon, I promise). It contains all the information you'll need—hardenings, enhancements, fixes, and commands included with the server—as well as useful tips and tricks. Refer to it if you have any questions regarding gameplay first. [spoiler]RTFM![/spoiler]
+[*] A [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3388609126]collection of all custom campaigns[/url] available on the servers has been created.
+[*] The project is now publicly available at [url=https://github.com/SefoNotasi/Left4LegendServer]GitHub[/url]. Now you can follow [url=https://github.com/SefoNotasi/Left4LegendServer/commits/main]development progress[/url] and [url=https://github.com/SefoNotasi/Left4LegendServer/issues]bug fixing[/url] progress respectively.
+[/list]
+
+[h1]What's changed?[/h1]
+[list]
+[*] Every bit of information within the group has been updated.
+[*] There are five 30 tickrate servers live, as well as an experimental sixth server that's being used for testing potential upcoming updates.
+[*] All the news regarding future updates are going to be available under the “[url=https://steamcommunity.com/groups/Left4Legend/announcements]Announcements[/url]” section.
+[/list]
+
+[h1]What's next?[/h1]
+[list]
+[*] Development continues. Bugs are being fixed, new ideas are being realized — every change will be reflected in the newly released guide accordingly.
+[*] Custom campaigns collection will be updated with new campaigns. There, in the comment section you can request what campaigns you would like to see available on the servers.
+[*] You can report any and all issues you face in a new dedicated [url=https://steamcommunity.com/groups/Left4Legend/discussions/0/601891362926791278]discussion[/url].
+[/list]
+
+[h1]Special thanks[/h1]
+[list]
+[*] Huge thanks to my good friend [url=https://steamcommunity.com/profiles/76561198178222785]Lombaxtard[/url], lead community manager of [b]Left 4 Legend[/b]. He's the one who helped reimagine the project, develop some of the core gameplay mechanics and ultimately, made this release possible.
+[*] Thanks to [url=https://steamcommunity.com/id/3ipKa_]3ipKa*[/url], a [url=https://steamcommunity.com/groups/Gamezone-l4d2]GameZone project[/url] administrator, as well as for help with some plugins.
+[*] Thank you to all our amazing players for your invaluable feedback ❤️
+[/list]
+
+[h3]🎄 Happy holidays everyone and have a great game![/h3]
