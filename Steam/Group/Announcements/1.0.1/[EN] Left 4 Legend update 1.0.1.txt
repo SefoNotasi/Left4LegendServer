@@ -1,0 +1,6 @@
+[h1][url=https://steamcommunity.com/groups/Left4Legend/announcements/detail/523078230806103874]Оригинал на русском[/url][/h1]
+
+[list]
+[*] Fixed deploy speed of secondary weapons. Switching to secondary now takes the same amount of time as in the original game.
+[*] Added a new custom campaign — [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2668272749]Dead Center: Christmas Edition[/url].
+[/list]
