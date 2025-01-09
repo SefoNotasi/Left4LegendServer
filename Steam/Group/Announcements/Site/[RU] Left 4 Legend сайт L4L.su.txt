@@ -1,5 +1,7 @@
 [RU] Left 4 Legend: сайт L4L.su
 
+[h1][url=https://steamcommunity.com/groups/Left4Legend/announcements/detail/503939216720266510]English translation[/url][/h1]
+
 Запущен [url=https://L4L.su]сайт Left 4 Legend[/url] по адресу [b]L4L.su[/b]
 [list]
 [*] На сайте есть удобный онлайн мониторинг всех серверов с быстрым подключением к игре.

@@ -1,0 +1,13 @@
+[EN] Left 4 Legend: L4L.su website
+
+[h1][url=https://steamcommunity.com/groups/Left4Legend/announcements/detail/503939216720265735]Оригинал на русском[/url][/h1]
+
+[url=https://L4L.su]Left 4 Legend website[/url] is now live at [b]L4L.su[/b]
+[list]
+[*] The website has convenient server monitoring with options for quick join.
+[*] Server monitoring is refreshed every 30 seconds in the background.
+[*] User preferences get stored in your browser.
+[*] You can use a campaign randomizer.
+[*] English and Russian languages are supported.
+[*] The website contains every bit of information on [b]Left 4 Legend[/b] (servers) and 
+it's features.[/list]
