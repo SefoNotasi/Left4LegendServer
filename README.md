@@ -1,5 +1,7 @@
 # Left 4 Legend server
 > [!IMPORTANT]
+> Server site: [L4L.su](https://L4L.su)
+>
 > Server group: [steamcommunity.com/groups/Left4Legend](https://steamcommunity.com/groups/Left4Legend)
 >
 > Server chat: [steamcommunity.com/chat/invite/HWJHvO7g](https://steamcommunity.com/chat/invite/HWJHvO7g)
