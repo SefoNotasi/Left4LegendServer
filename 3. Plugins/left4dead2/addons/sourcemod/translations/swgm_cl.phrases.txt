@@ -22,7 +22,7 @@
 	}
 	"Help"
 	{
-		"en"		"{OLIVE}Guide with all server features:\n{LIGHTGREEN}steamcommunity.com/sharedfiles/filedetails/?id=3384448522"
+		"en"		"{OLIVE}Guide with all server features:\n{LIGHTGREEN}steamcommunity.com/sharedfiles/filedetails/?id=3390167011"
 		"ru"		"{OLIVE}Руководство со всеми особенностями сервера:\n{LIGHTGREEN}steamcommunity.com/sharedfiles/filedetails/?id=3384448522"
 	}
 	"Join"

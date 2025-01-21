@@ -3255,3 +3255,197 @@
 [2024-12-20 17:21:16] stats: (CDN, 29) edgenext.cdn.steampipe.steamcontent.com: 692069760 Bytes, 127 sec (43.65 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes)
 [2024-12-20 17:21:16] stats: (Invalid, 0) : 745028928 Bytes, 241 sec (24.75 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes)
 [2024-12-20 17:21:16] stats: (CDN, 33) alibaba.cdn.steampipe.steamcontent.com: 52959168 Bytes, 240 sec (1.76 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes)
+
+
+[2025-01-18 07:18:12] Client version: 1733269577
+[2025-01-18 07:18:12] Loaded 0 apps from install folder "d:\l4l\left4legendserver\windows\ds\l4d2\steamapps\appmanifest_*.acf".
+[2025-01-18 07:18:12] Triggered async write of Steam library folders configuration (1 libraries).
+[2025-01-18 07:18:15] AppID 222860 state changed : Update Required,
+[2025-01-18 07:18:15] AppID 222860 user config changed : added depots 222861,222862
+[2025-01-18 07:18:15] AppID 222860 scheduler update : Priority First, not played for 4294967295 seconds, update disabled for 0 seconds
+[2025-01-18 07:18:15] AppID 222860 state changed : Update Required,Update Queued,
+[2025-01-18 07:18:15] AppID 222860 scheduler update : Priority First, not played for 4294967295 seconds, update disabled for 0 seconds
+[2025-01-18 07:18:15] AppID 222860 config changed : added depots 222861,222862
+[2025-01-18 07:18:15] AppID 222860 state changed : Update Required,Update Queued,Update Running,
+[2025-01-18 07:18:15] AppID 222860 update changed : Running Update,
+[2025-01-18 07:18:15] AppID 222860 update changed : Running Update,Reconfiguring,
+[2025-01-18 07:18:16] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 7 / Launcher 3)
+[2025-01-18 07:18:16] Moving to source priority class '3'
+[2025-01-18 07:18:16] Created download interface of type 'SteamCache' (7) to host cache9-fra1.steamcontent.com (cache9-fra1.steamcontent.com)
+[2025-01-18 07:18:16] Created download interface of type 'SteamCache' (7) to host cache9-fra2.steamcontent.com (cache9-fra2.steamcontent.com)
+[2025-01-18 07:18:16] Created download interface of type 'SteamCache' (7) to host cache7-fra1.steamcontent.com (cache7-fra1.steamcontent.com)
+[2025-01-18 07:18:16] HTTP/2 available
+[2025-01-18 07:18:16] Created ipv4-only http client
+[2025-01-18 07:18:17] HTTPS (SteamCache,249) - cache9-fra1.steamcontent.com (162.254.197.11:443 / 162.254.197.11:443, host: cache9-fra1.steamcontent.com): Negotiated HTTP/2
+[2025-01-18 07:18:17] HTTP/2 (SteamCache,249) - cache9-fra1.steamcontent.com (162.254.197.11:443 / 162.254.197.11:443, host: cache9-fra1.steamcontent.com): cache9-fra1.steamcontent.com/depot/222862/manifest/8960944863362722054/5/17908959839896327683 - received 200 (OK) HTTP response
+[2025-01-18 07:18:17] AppID 222860 update changed : Running Update,
+[2025-01-18 07:18:17] AppID 222860 update changed : Running Update,Validating,
+[2025-01-18 07:18:17] AppID 222860 update changed : Running Update,
+[2025-01-18 07:18:17] AppID 222860 update changed : Running Update,Preallocating,
+[2025-01-18 07:18:17] AppID 222860 preallocated 717 files (9154 MB) 
+[2025-01-18 07:18:17] AppID 222860 update changed : Running Update,
+[2025-01-18 07:18:17] AppID 222860 update started : download 0/4700221728, store 0/0, reuse 0/0, delta 0/0, stage 0/9710280726 
+[2025-01-18 07:18:17] AppID 222860 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2025-01-18 07:18:17] AppID 222860 update changed : Running Update,Downloading,Staging,
+[2025-01-18 07:18:17] Downloading 35957 chunks from depot 222861
+[2025-01-18 07:18:18] HTTPS (SteamCache,150) - cache9-fra2.steamcontent.com (155.133.226.4:443 / 155.133.226.4:443, host: cache9-fra2.steamcontent.com): Negotiated HTTP/2
+[2025-01-18 07:18:18] HTTPS (SteamCache,81) - cache7-fra1.steamcontent.com (162.254.197.4:443 / 162.254.197.4:443, host: cache7-fra1.steamcontent.com): Negotiated HTTP/2
+[2025-01-18 07:18:29] Increasing target number of download connections to 4 (rate was 0.000, now 184.475)
+[2025-01-18 07:18:29] Created download interface of type 'SteamCache' (7) to host cache2-fra1.steamcontent.com (cache2-fra1.steamcontent.com)
+[2025-01-18 07:18:30] HTTPS (SteamCache,53) - cache2-fra1.steamcontent.com (162.254.197.26:443 / 162.254.197.26:443, host: cache2-fra1.steamcontent.com): Negotiated HTTP/2
+[2025-01-18 07:18:41] Increasing target number of download connections to 5 (rate was 184.475, now 268.423)
+[2025-01-18 07:18:41] Created download interface of type 'SteamCache' (7) to host cache3-sto2.steamcontent.com (cache3-sto2.steamcontent.com)
+[2025-01-18 07:18:41] HTTPS (SteamCache,64) - cache3-sto2.steamcontent.com (155.133.252.6:443 / 155.133.252.6:443, host: cache3-sto2.steamcontent.com): Negotiated HTTP/2
+[2025-01-18 07:19:29] Current download rate: 300.214 Mbps
+[2025-01-18 07:20:30] Current download rate: 147.500 Mbps
+[2025-01-18 07:20:30] Downloading 265 chunks from depot 222862
+[2025-01-18 07:20:33] AppID 222860 update changed : Running Update,
+[2025-01-18 07:20:33] AppID 222860 update changed : Running Update,Verifying,
+[2025-01-18 07:20:40] Verified 2049 MB in 'D:\L4L\Left4LegendServer\Windows\SteamCMD', clean bytes tally is now 2049 MB
+[2025-01-18 07:20:40] Triggered async write of Steam library folders configuration (1 libraries).
+[2025-01-18 07:20:40] AppID 222860 update changed : Running Update,
+[2025-01-18 07:20:40] AppID 222860 update changed : Running Update,Committing,
+[2025-01-18 07:20:40] AppID 222860 starting commit from "d:\l4l\left4legendserver\windows\ds\l4d2\steamapps\downloading\222860" to "d:\l4l\left4legendserver\windows\ds\l4d2" : 32732 updated, 0 moved, 0 deleted files
+[2025-01-18 07:20:49] AppID 222860 state changed : Fully Installed,Update Queued,Update Running,
+[2025-01-18 07:20:49] AppID 222860 finished update, 2 mounted depots (BuildID 17033453) : 222861 (4827977561765481436),222862 (8960944863362722054),
+[2025-01-18 07:20:49] AppID 222860 update changed : Running Update,
+[2025-01-18 07:20:49] AppID 222860 update changed : None
+[2025-01-18 07:20:49] AppID 222860 state changed : Fully Installed,Update Queued,
+[2025-01-18 07:20:49] AppID 222860 state changed : Fully Installed,
+[2025-01-18 07:20:49] AppID 222860 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2025-01-18 07:21:19] HTTP/2 (SteamCache,64) - cache3-sto2.steamcontent.com (155.133.252.6:443 / 155.133.252.6:443, host: cache3-sto2.steamcontent.com): Closing connection
+[2025-01-18 07:21:19] HTTP/2 (SteamCache,53) - cache2-fra1.steamcontent.com (162.254.197.26:443 / 162.254.197.26:443, host: cache2-fra1.steamcontent.com): Closing connection
+[2025-01-18 07:21:19] HTTP/2 (SteamCache,81) - cache7-fra1.steamcontent.com (162.254.197.4:443 / 162.254.197.4:443, host: cache7-fra1.steamcontent.com): Closing connection
+[2025-01-18 07:21:19] HTTP/2 (SteamCache,150) - cache9-fra2.steamcontent.com (155.133.226.4:443 / 155.133.226.4:443, host: cache9-fra2.steamcontent.com): Closing connection
+[2025-01-18 07:21:19] HTTP/2 (SteamCache,249) - cache9-fra1.steamcontent.com (162.254.197.11:443 / 162.254.197.11:443, host: cache9-fra1.steamcontent.com): Closing connection
+
+
+[2025-01-18 07:22:20] Client version: 1733269577
+[2025-01-18 07:22:20] Loaded 0 apps from install folder "d:\l4l\left4legendserver\windows\ds\l4d2\steamapps\appmanifest_*.acf".
+[2025-01-18 07:22:20] Triggered async write of Steam library folders configuration (1 libraries).
+[2025-01-18 07:22:21] AppID 222860 state changed : Update Required,
+[2025-01-18 07:22:21] AppID 222860 user config changed : added depots 222861,222862
+[2025-01-18 07:22:21] AppID 222860 scheduler update : Priority First, not played for 4294967295 seconds, update disabled for 0 seconds
+[2025-01-18 07:22:21] AppID 222860 state changed : Update Required,Update Queued,
+[2025-01-18 07:22:21] AppID 222860 scheduler update : Priority First, not played for 4294967295 seconds, update disabled for 0 seconds
+[2025-01-18 07:22:21] AppID 222860 config changed : added depots 222861,222862
+[2025-01-18 07:22:21] AppID 222860 state changed : Update Required,Update Queued,Update Running,
+[2025-01-18 07:22:21] AppID 222860 update changed : Running Update,
+[2025-01-18 07:22:21] AppID 222860 update changed : Running Update,Reconfiguring,
+[2025-01-18 07:22:21] AppID 222860 update changed : Running Update,
+[2025-01-18 07:22:21] AppID 222860 update changed : Running Update,Validating,
+[2025-01-18 07:22:21] AppID 222860 update changed : Running Update,
+[2025-01-18 07:22:21] AppID 222860 update changed : Running Update,Preallocating,
+[2025-01-18 07:22:22] AppID 222860 preallocated 717 files (9154 MB) 
+[2025-01-18 07:22:22] AppID 222860 update changed : Running Update,
+[2025-01-18 07:22:22] AppID 222860 update started : download 0/4700221728, store 0/0, reuse 0/0, delta 0/0, stage 0/9710280726 
+[2025-01-18 07:22:22] AppID 222860 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2025-01-18 07:22:22] AppID 222860 update changed : Running Update,Downloading,Staging,
+[2025-01-18 07:22:22] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 7 / Launcher 3)
+[2025-01-18 07:22:22] Moving to source priority class '3'
+[2025-01-18 07:22:22] Created download interface of type 'SteamCache' (7) to host cache9-fra1.steamcontent.com (cache9-fra1.steamcontent.com)
+[2025-01-18 07:22:22] Created download interface of type 'SteamCache' (7) to host cache2-fra1.steamcontent.com (cache2-fra1.steamcontent.com)
+[2025-01-18 07:22:22] Created download interface of type 'SteamCache' (7) to host cache9-fra2.steamcontent.com (cache9-fra2.steamcontent.com)
+[2025-01-18 07:22:22] Downloading 35957 chunks from depot 222861
+[2025-01-18 07:22:22] HTTP/2 available
+[2025-01-18 07:22:22] Created ipv4-only http client
+[2025-01-18 07:22:23] HTTPS (SteamCache,249) - cache9-fra1.steamcontent.com (162.254.197.11:443 / 162.254.197.11:443, host: cache9-fra1.steamcontent.com): Negotiated HTTP/2
+[2025-01-18 07:22:23] HTTPS (SteamCache,150) - cache9-fra2.steamcontent.com (155.133.226.4:443 / 155.133.226.4:443, host: cache9-fra2.steamcontent.com): Negotiated HTTP/2
+[2025-01-18 07:22:23] HTTPS (SteamCache,53) - cache2-fra1.steamcontent.com (162.254.197.26:443 / 162.254.197.26:443, host: cache2-fra1.steamcontent.com): Negotiated HTTP/2
+[2025-01-18 07:22:35] Increasing target number of download connections to 4 (rate was 0.000, now 223.258)
+[2025-01-18 07:22:35] Created download interface of type 'SteamCache' (7) to host cache3-sto2.steamcontent.com (cache3-sto2.steamcontent.com)
+[2025-01-18 07:22:36] HTTPS (SteamCache,64) - cache3-sto2.steamcontent.com (155.133.252.6:443 / 155.133.252.6:443, host: cache3-sto2.steamcontent.com): Negotiated HTTP/2
+[2025-01-18 07:22:47] Increasing target number of download connections to 5 (rate was 223.258, now 281.173)
+[2025-01-18 07:22:47] Created download interface of type 'SteamCache' (7) to host cache7-fra1.steamcontent.com (cache7-fra1.steamcontent.com)
+[2025-01-18 07:22:48] HTTPS (SteamCache,81) - cache7-fra1.steamcontent.com (162.254.197.4:443 / 162.254.197.4:443, host: cache7-fra1.steamcontent.com): Negotiated HTTP/2
+[2025-01-18 07:23:36] Current download rate: 301.446 Mbps
+[2025-01-18 07:24:29] Downloading 265 chunks from depot 222862
+[2025-01-18 07:24:31] AppID 222860 update changed : Running Update,
+[2025-01-18 07:24:31] AppID 222860 update changed : Running Update,Verifying,
+[2025-01-18 07:24:37] Current download rate: 0.000 Mbps
+[2025-01-18 07:24:37] Verified 2049 MB in 'D:\L4L\Left4LegendServer\Windows\SteamCMD', clean bytes tally is now 2049 MB
+[2025-01-18 07:24:37] Triggered async write of Steam library folders configuration (1 libraries).
+[2025-01-18 07:24:37] AppID 222860 update changed : Running Update,
+[2025-01-18 07:24:37] AppID 222860 update changed : Running Update,Committing,
+[2025-01-18 07:24:37] AppID 222860 starting commit from "d:\l4l\left4legendserver\windows\ds\l4d2\steamapps\downloading\222860" to "d:\l4l\left4legendserver\windows\ds\l4d2" : 32732 updated, 0 moved, 0 deleted files
+[2025-01-18 07:24:45] AppID 222860 state changed : Fully Installed,Update Queued,Update Running,
+[2025-01-18 07:24:45] AppID 222860 finished update, 2 mounted depots (BuildID 17033453) : 222861 (4827977561765481436),222862 (8960944863362722054),
+[2025-01-18 07:24:45] AppID 222860 update changed : Running Update,
+[2025-01-18 07:24:45] AppID 222860 update changed : None
+[2025-01-18 07:24:45] AppID 222860 state changed : Fully Installed,Update Queued,
+[2025-01-18 07:24:45] AppID 222860 state changed : Fully Installed,
+[2025-01-18 07:24:45] AppID 222860 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2025-01-18 07:25:26] HTTP/2 (SteamCache,64) - cache3-sto2.steamcontent.com (155.133.252.6:443 / 155.133.252.6:443, host: cache3-sto2.steamcontent.com): Closing connection
+[2025-01-18 07:25:29] HTTP/2 (SteamCache,53) - cache2-fra1.steamcontent.com (162.254.197.26:443 / 162.254.197.26:443, host: cache2-fra1.steamcontent.com): Closing connection
+[2025-01-18 07:25:29] HTTP/2 (SteamCache,150) - cache9-fra2.steamcontent.com (155.133.226.4:443 / 155.133.226.4:443, host: cache9-fra2.steamcontent.com): Closing connection
+[2025-01-18 07:25:32] HTTP/2 (SteamCache,249) - cache9-fra1.steamcontent.com (162.254.197.11:443 / 162.254.197.11:443, host: cache9-fra1.steamcontent.com): Closing connection
+[2025-01-18 07:25:32] HTTP/2 (SteamCache,81) - cache7-fra1.steamcontent.com (162.254.197.4:443 / 162.254.197.4:443, host: cache7-fra1.steamcontent.com): Closing connection
+
+
+[2025-01-19 06:47:10] Client version: 1733269577
+[2025-01-19 06:47:10] Loaded 0 apps from install folder "d:\l4l\left4legendserver\windows\ds\l4d2\steamapps\appmanifest_*.acf".
+[2025-01-19 06:47:10] Triggered async write of Steam library folders configuration (1 libraries).
+[2025-01-19 06:47:12] AppID 222860 state changed : Update Required,
+[2025-01-19 06:47:12] AppID 222860 user config changed : added depots 222861,222862
+[2025-01-19 06:47:12] AppID 222860 scheduler update : Priority First, not played for 0 seconds, update disabled for 0 seconds
+[2025-01-19 06:47:12] AppID 222860 state changed : Update Required,Update Queued,
+[2025-01-19 06:47:12] AppID 222860 scheduler update : Priority First, not played for 0 seconds, update disabled for 0 seconds
+[2025-01-19 06:47:12] AppID 222860 config changed : added depots 222861,222862
+[2025-01-19 06:47:12] AppID 222860 state changed : Update Required,Update Queued,Update Running,
+[2025-01-19 06:47:12] AppID 222860 update changed : Running Update,
+[2025-01-19 06:47:12] AppID 222860 update changed : Running Update,Reconfiguring,
+[2025-01-19 06:47:12] AppID 222860 update changed : Running Update,
+[2025-01-19 06:47:12] AppID 222860 update changed : Running Update,Validating,
+[2025-01-19 06:47:12] AppID 222860 update changed : Running Update,
+[2025-01-19 06:47:12] AppID 222860 update changed : Running Update,Preallocating,
+[2025-01-19 06:47:13] AppID 222860 preallocated 717 files (9154 MB) 
+[2025-01-19 06:47:13] AppID 222860 update changed : Running Update,
+[2025-01-19 06:47:13] AppID 222860 update started : download 0/4700221728, store 0/0, reuse 0/0, delta 0/0, stage 0/9710280726 
+[2025-01-19 06:47:13] AppID 222860 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2025-01-19 06:47:13] AppID 222860 update changed : Running Update,Downloading,Staging,
+[2025-01-19 06:47:13] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 7 / Launcher 3)
+[2025-01-19 06:47:13] Moving to source priority class '3'
+[2025-01-19 06:47:13] Created download interface of type 'SteamCache' (7) to host cache2-fra1.steamcontent.com (cache2-fra1.steamcontent.com)
+[2025-01-19 06:47:13] Created download interface of type 'SteamCache' (7) to host cache9-fra1.steamcontent.com (cache9-fra1.steamcontent.com)
+[2025-01-19 06:47:13] Created download interface of type 'SteamCache' (7) to host cache9-fra2.steamcontent.com (cache9-fra2.steamcontent.com)
+[2025-01-19 06:47:13] Downloading 35957 chunks from depot 222861
+[2025-01-19 06:47:13] HTTP/2 available
+[2025-01-19 06:47:13] Created ipv4-only http client
+[2025-01-19 06:47:14] HTTPS (SteamCache,53) - cache2-fra1.steamcontent.com (162.254.197.26:443 / 162.254.197.26:443, host: cache2-fra1.steamcontent.com): Negotiated HTTP/2
+[2025-01-19 06:47:14] HTTPS (SteamCache,249) - cache9-fra1.steamcontent.com (162.254.197.11:443 / 162.254.197.11:443, host: cache9-fra1.steamcontent.com): Negotiated HTTP/2
+[2025-01-19 06:47:14] HTTPS (SteamCache,150) - cache9-fra2.steamcontent.com (155.133.226.4:443 / 155.133.226.4:443, host: cache9-fra2.steamcontent.com): Negotiated HTTP/2
+[2025-01-19 06:47:26] Increasing target number of download connections to 4 (rate was 0.000, now 239.657)
+[2025-01-19 06:47:26] Created download interface of type 'SteamCache' (7) to host cache10-fra2.steamcontent.com (cache10-fra2.steamcontent.com)
+[2025-01-19 06:47:27] HTTPS (SteamCache,151) - cache10-fra2.steamcontent.com (155.133.226.20:443 / 155.133.226.20:443, host: cache10-fra2.steamcontent.com): Negotiated HTTP/2
+[2025-01-19 06:47:40] Increasing target number of download connections to 5 (rate was 239.657, now 288.204)
+[2025-01-19 06:47:40] Created download interface of type 'SteamCache' (7) to host cache3-sto2.steamcontent.com (cache3-sto2.steamcontent.com)
+[2025-01-19 06:47:40] HTTPS (SteamCache,64) - cache3-sto2.steamcontent.com (155.133.252.6:443 / 155.133.252.6:443, host: cache3-sto2.steamcontent.com): Negotiated HTTP/2
+[2025-01-19 06:48:27] Current download rate: 262.271 Mbps
+[2025-01-19 06:49:28] Current download rate: 300.468 Mbps
+[2025-01-19 06:50:06] Downloading 265 chunks from depot 222862
+[2025-01-19 06:50:14] AppID 222860 update changed : Running Update,
+[2025-01-19 06:50:14] AppID 222860 update changed : Running Update,Verifying,
+[2025-01-19 06:50:20] Verified 2049 MB in 'D:\L4L\Left4LegendServer\Windows\SteamCMD', clean bytes tally is now 2049 MB
+[2025-01-19 06:50:20] Triggered async write of Steam library folders configuration (1 libraries).
+[2025-01-19 06:50:20] AppID 222860 update changed : Running Update,
+[2025-01-19 06:50:20] AppID 222860 update changed : Running Update,Committing,
+[2025-01-19 06:50:20] AppID 222860 starting commit from "d:\l4l\left4legendserver\windows\ds\l4d2\steamapps\downloading\222860" to "d:\l4l\left4legendserver\windows\ds\l4d2" : 32732 updated, 0 moved, 0 deleted files
+[2025-01-19 06:50:28] AppID 222860 state changed : Fully Installed,Update Queued,Update Running,
+[2025-01-19 06:50:28] AppID 222860 finished update, 2 mounted depots (BuildID 17033453) : 222861 (4827977561765481436),222862 (8960944863362722054),
+[2025-01-19 06:50:28] AppID 222860 update changed : Running Update,
+[2025-01-19 06:50:28] AppID 222860 update changed : None
+[2025-01-19 06:50:28] AppID 222860 state changed : Fully Installed,Update Queued,
+[2025-01-19 06:50:28] AppID 222860 state changed : Fully Installed,
+[2025-01-19 06:50:28] AppID 222860 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2025-01-19 06:50:29] Current download rate: 0.000 Mbps
+[2025-01-19 06:51:09] HTTP/2 (SteamCache,151) - cache10-fra2.steamcontent.com (155.133.226.20:443 / 155.133.226.20:443, host: cache10-fra2.steamcontent.com): Closing connection
+[2025-01-19 06:51:10] HTTP/2 (SteamCache,150) - cache9-fra2.steamcontent.com (155.133.226.4:443 / 155.133.226.4:443, host: cache9-fra2.steamcontent.com): Closing connection
+[2025-01-19 06:51:11] HTTP/2 (SteamCache,249) - cache9-fra1.steamcontent.com (162.254.197.11:443 / 162.254.197.11:443, host: cache9-fra1.steamcontent.com): Closing connection
+[2025-01-19 06:51:12] HTTP/2 (SteamCache,53) - cache2-fra1.steamcontent.com (162.254.197.26:443 / 162.254.197.26:443, host: cache2-fra1.steamcontent.com): Closing connection
+[2025-01-19 06:51:14] HTTP/2 (SteamCache,64) - cache3-sto2.steamcontent.com (155.133.252.6:443 / 155.133.252.6:443, host: cache3-sto2.steamcontent.com): Closing connection
+[2025-01-19 06:52:44] stats: (SteamCache, 53) cache2-fra1.steamcontent.com: 1309642976 Bytes, 128 sec (82.07 Mbps). 0 Hits / 11716 Misses (0 %, 0 % bytes)
+[2025-01-19 06:52:44] stats: (Invalid, 0) : 4700221728 Bytes, 165 sec (228.16 Mbps). 1565 Hits / 34657 Misses (4 %, 9 % bytes)
+[2025-01-19 06:52:44] stats: (SteamCache, 249) cache9-fra1.steamcontent.com: 1378994432 Bytes, 130 sec (84.78 Mbps). 1253 Hits / 10011 Misses (11 %, 21 % bytes)
+[2025-01-19 06:52:44] stats: (SteamCache, 150) cache9-fra2.steamcontent.com: 1214835216 Bytes, 124 sec (78.16 Mbps). 179 Hits / 8715 Misses (2 %, 5 % bytes)
+[2025-01-19 06:52:44] stats: (SteamCache, 151) cache10-fra2.steamcontent.com: 560993456 Bytes, 111 sec (40.32 Mbps). 0 Hits / 3493 Misses (0 %, 0 % bytes)
+[2025-01-19 06:52:44] stats: (SteamCache, 64) cache3-sto2.steamcontent.com: 235755648 Bytes, 132 sec (14.26 Mbps). 133 Hits / 722 Misses (16 %, 26 % bytes)

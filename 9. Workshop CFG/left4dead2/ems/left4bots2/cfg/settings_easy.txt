@@ -1,0 +1,16 @@
+automation_autostart = 0
+close_saferoom_door_all_chance = 0
+close_saferoom_door_highres = 1
+heal_interrupt_minhealth = 30
+horde_nades_chance = 35
+jockey_redirect_damage = 50
+manual_attack_always = 1
+manual_attack_mindot = 0.90
+manual_attack_skill = 2
+scavenge_max_bots = 1
+shove_deadstop_chance = 100
+signal_chat = 0
+spit_block_nav = 1
+tank_molotov_chance = 50
+tank_throw_survivors_mindistance = 260
+witch_autocrown = 0 
