@@ -9,7 +9,7 @@
 > [!TIP]
 > Server guide [RU]: [steamcommunity.com/sharedfiles/filedetails/?id=3384448522](https://steamcommunity.com/sharedfiles/filedetails/?id=3384448522)
 >
-> Server guide [EN]: [steamcommunity.com/sharedfiles/filedetails/?id=3384448522](https://steamcommunity.com/sharedfiles/filedetails/?id=3390167011)
+> Server guide [EN]: [steamcommunity.com/sharedfiles/filedetails/?id=3390167011](https://steamcommunity.com/sharedfiles/filedetails/?id=3390167011)
 >
 > Server maps: [steamcommunity.com/sharedfiles/filedetails/?id=3388609126](https://steamcommunity.com/sharedfiles/filedetails/?id=3388609126)
 
