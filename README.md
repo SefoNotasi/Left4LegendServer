@@ -7,7 +7,9 @@
 > Server chat: [steamcommunity.com/chat/invite/HWJHvO7g](https://steamcommunity.com/chat/invite/HWJHvO7g)
 
 > [!TIP]
-> Server guide: [steamcommunity.com/sharedfiles/filedetails/?id=3384448522](https://steamcommunity.com/sharedfiles/filedetails/?id=3384448522)
+> Server guide [RU]: [steamcommunity.com/sharedfiles/filedetails/?id=3384448522](https://steamcommunity.com/sharedfiles/filedetails/?id=3384448522)
+>
+> Server guide [EN]: [steamcommunity.com/sharedfiles/filedetails/?id=3384448522](https://steamcommunity.com/sharedfiles/filedetails/?id=3390167011)
 >
 > Server maps: [steamcommunity.com/sharedfiles/filedetails/?id=3388609126](https://steamcommunity.com/sharedfiles/filedetails/?id=3388609126)
 
