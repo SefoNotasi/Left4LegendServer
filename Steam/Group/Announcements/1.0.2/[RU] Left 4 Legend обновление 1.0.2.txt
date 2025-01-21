@@ -15,6 +15,7 @@
 [list]
 [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3101550309]No Mercy: Christmas Edition[/url] — добавлена.
 [*] [b]Snow Den[/b] — заменена на новую версию [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3396441138]Snow Den 2.0, Holiday release (definitive version)[/url].
+[*] [b]Free Passage 2.0[/b] и [b]Coald Blood 2 Ext. Mashup v2.6[/b] — теперь корректно отображаются в меню кампаний на сервере.
 [*] [b]Day Break[/b] — удалена из-за конфликтов с другими кампаниями.
 [*] [b]ToyZ 2[/b] — удалена.
 [/list]
