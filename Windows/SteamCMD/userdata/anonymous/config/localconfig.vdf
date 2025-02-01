@@ -1,6 +1,6 @@
 "UserLocalConfigStore"
 {
-	"AppInfoChangeNumber"		"27061218"
+	"AppInfoChangeNumber"		"27235336"
 	"Software"
 	{
 		"Valve"
@@ -11,7 +11,7 @@
 				{
 					"222860"
 					{
-						"LastPlayed"		"1737258432"
+						"LastPlayed"		"1738226989"
 					}
 				}
 			}
@@ -26,7 +26,7 @@
 				"edgenext.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1734714612"
+					"Expires"		"1738237791"
 				}
 				"steampipe.akamaized.net"
 				{
@@ -62,7 +62,7 @@
 				"edgenext.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1734715154"
+					"Expires"		"1738237943"
 				}
 			}
 		}
