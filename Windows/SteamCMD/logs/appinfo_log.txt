@@ -2450,3 +2450,25 @@
 [2025-01-30 16:23:20] Change number 27235115->27235336, apps: 4/234, packages: 0/0
 [2025-01-30 16:23:20] Requesting 4 apps, 1 packages (meta data, 1024 prev attempts, expected 0 KB)
 [2025-01-30 16:23:20] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2025-02-01 08:16:10] Client version: 1738027521
+[2025-02-01 08:16:10] ThreadedReadFromDisk: loading appinfo cache from: D:\L4L\Left4LegendServer\Windows\SteamCMD/appcache/appinfo.vdf
+[2025-02-01 08:16:10] ThreadedReadFromDisk: header version: 0x7564429
+[2025-02-01 08:16:10] ThreadedReadFromDisk: apps updated: 1238
+[2025-02-01 08:16:10] CAppInfoCacheReadFromDiskThread took 35 milliseconds to initialize
+[2025-02-01 08:16:12] RequestAppInfoUpdate: AppIDs 7
+[2025-02-01 08:16:12] Packages changed: force all
+[2025-02-01 08:16:12] Apps changed: force all
+[2025-02-01 08:16:12] Change number 27235336->27265566, apps: 0/0, packages: 0/0
+[2025-02-01 08:16:12] Requesting 1238 apps, 1 packages (meta data, 1024 prev attempts, expected 58 KB)
+[2025-02-01 08:16:13] Requested 93 app access tokens, 17 received, 76 denied
+[2025-02-01 08:16:13] Updated SHAs with 17 new access tokens
+[2025-02-01 08:16:13] Downloaded 22 apps via HTTP, 374 KB (78 KB compressed)
+[2025-02-01 08:16:13] Requesting 52 apps, 0 packages (full data, 1024 prev attempts, expected 222 KB)
+[2025-02-01 08:16:13] UpdatesJob: finished OK, apps updated 74 (594 KB), packages updated 0 (0 KB)
+[2025-02-01 08:16:14] RequestAppInfoUpdate: AppIDs 222860
+[2025-02-01 08:16:14] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2025-02-01 08:16:14] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2025-02-01 08:16:28] ThreadedWriteToDisk: writing appinfo cache to: D:\L4L\Left4LegendServer\Windows\SteamCMD/appcache/appinfo.vdf
+[2025-02-01 08:16:28] App cache write succeeded D:\L4L\Left4LegendServer\Windows\SteamCMD/appcache/appinfo.vdf (1238 apps, 2653 KB) in 33 ms
