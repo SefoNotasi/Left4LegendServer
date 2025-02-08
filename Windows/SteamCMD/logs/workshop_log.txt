@@ -253,3 +253,8 @@
 [2025-02-01 08:16:12] Client version: 1738027521
 [2025-02-01 08:16:12] Loading workshop items for 0 installed apps for user [a:1:3827056763]:
 [2025-02-01 08:16:14] [AppID 222860] Loaded workshop items in "d:\l4l\left4legendserver\windows\ds\l4d2\steamapps\workshop" (0 installed, 0 needed)
+
+
+[2025-02-08 10:21:31] Client version: 1738027521
+[2025-02-08 10:21:31] Loading workshop items for 0 installed apps for user [a:1:2688433214]:
+[2025-02-08 10:21:33] [AppID 222860] Loaded workshop items in "d:\l4l\left4legendserver\windows\ds\l4d2\steamapps\workshop" (0 installed, 0 needed)
