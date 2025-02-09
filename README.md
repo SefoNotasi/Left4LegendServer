@@ -4,7 +4,11 @@
 >
 > Server group: [steamcommunity.com/groups/Left4Legend](https://steamcommunity.com/groups/Left4Legend)
 >
+> Server Discord: [discord.com/invite/vYbu7CqpQX](https://discord.com/invite/vYbu7CqpQX)
+>
 > Server chat: [steamcommunity.com/chat/invite/HWJHvO7g](https://steamcommunity.com/chat/invite/HWJHvO7g)
+>
+> Server bans: [Bans.L4L.su](https://Bans.L4L.su)
 
 > [!TIP]
 > Server guide [RU]: [steamcommunity.com/sharedfiles/filedetails/?id=3384448522](https://steamcommunity.com/sharedfiles/filedetails/?id=3384448522)
