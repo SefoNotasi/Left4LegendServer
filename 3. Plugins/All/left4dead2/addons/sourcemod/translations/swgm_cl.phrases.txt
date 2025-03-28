@@ -30,4 +30,19 @@
 		"en"		"{LIGHTGREEN}steamcommunity.com/groups/Left4Legend\n{OLIVE}Join the group to add server to your favorites & hide these messages"
 		"ru"		"{LIGHTGREEN}steamcommunity.com/groups/Left4Legend\n{OLIVE}Присоединитесь к группе, чтобы добавить сервер в избранное и скрыть эти сообщения"
 	}
+	"Welcome1"
+	{
+		"en"		"Welcome to {OLIVE}Left 4 Legend {DEFAULT}server\n{LIGHTGREEN}steamcommunity.com/groups/Left4Legend"
+		"ru"		"Добро пожаловать на сервер {OLIVE}Left 4 Legend\n{LIGHTGREEN}steamcommunity.com/groups/Left4Legend"
+	}
+	"Welcome2"
+	{
+		"en"		"Join the group to add server to your favorites & hide these messages"
+		"ru"		"Присоединитесь к группе, чтобы добавить сервер в избранное и скрыть эти сообщения"
+	}
+	"Welcome3"
+	{
+		"en"		"Guide with all server features:\n{BLUE}steamcommunity.com/sharedfiles/filedetails/?id=3390167011"
+		"ru"		"Руководство со всеми особенностями сервера:\n{BLUE}steamcommunity.com/sharedfiles/filedetails/?id=3384448522"
+	}
 }

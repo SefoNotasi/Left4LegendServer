@@ -87,7 +87,7 @@ public Action:SAM_t_ActionKick(Handle:timer, any:client)
 	#endif
 
 	// KickClient(client, "You away from keyboard for %.1f sec", g_fCvarKickT);
-	KickClient(client, "AFK 10 min");
+	KickClient(client, "AFK 6 min");
 	g_hTimer[client] = INVALID_HANDLE;
 }
 
