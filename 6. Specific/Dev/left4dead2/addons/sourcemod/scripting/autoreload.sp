@@ -4,7 +4,7 @@
 #include <sourcemod>
 #include <sdktools>
 
-#define PLUGIN_VERSION "1.15"
+#define PLUGIN_VERSION "1.16"
 
 #define DEBUG 0
 
@@ -33,6 +33,9 @@ public Plugin myinfo = {
 };
 
 /* Fork by Dragokas
+	
+	1.16 (19-Mar-2025)
+	 - Fixed case with whitespace characters in plugin file name cannot be reloaded (thanks to SuperArtyK).
 	
 	1.15 (06-Oct-2022)
 	 - Walkaround rare SM bug #1839, when SM reports incorrect plugin state, causing incorrect decision about "load" or "reload".
@@ -362,7 +365,7 @@ Action Timer_Regeneration(Handle timer)
 				
 				if( CallForward_OnUnload(sFilename, 1) == Plugin_Continue )
 				{
-					ServerCommand("sm plugins unload %s", sFilename);
+					ServerCommand("sm plugins unload \"%s\"", sFilename);
 					CallForward_OnUnload(sFilename, 0);
 				}
 				else {
@@ -496,15 +499,15 @@ Action Timer_ReloadDelayed(Handle timer, DataPack dp)
 	
 	if( bAllowReload )
 	{
-		ServerCommand("sm plugins reload %s", sFilename);
+		ServerCommand("sm plugins reload \"%s\"", sFilename);
 		if( !bAllowLoad ) // walkaround SM bug #1839
 		{
-			ServerCommand("sm plugins load %s", sFilename);
+			ServerCommand("sm plugins load \"%s\"", sFilename);
 		}
 	}
 	if( bAllowLoad )
 	{
-		ServerCommand("sm plugins load %s", sFilename);
+		ServerCommand("sm plugins load \"%s\"", sFilename);
 	}
 	
 	ServerExecute();
