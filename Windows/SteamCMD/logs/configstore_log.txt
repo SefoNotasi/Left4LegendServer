@@ -1366,3 +1366,41 @@
 [2025-03-11 13:55:37] Flushed store 'install' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf'
 [2025-03-11 13:55:41] Flushed store 'install' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf'
 [2025-03-11 13:55:46] Flushed store 'install' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf'
+
+
+[2025-03-28 15:33:55] Client version: 1742420332
+[2025-03-28 15:33:55] Loaded store 'install' from 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf' successfully
+[2025-03-28 15:33:55] Loaded store 'install' from 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf' successfully
+[2025-03-28 15:33:55] Loaded store 'install' from 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf' successfully
+[2025-03-28 15:33:55] Loaded store 'install' from 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf' successfully
+[2025-03-28 15:33:56] Loaded store 'install' from 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf' successfully
+[2025-03-28 15:33:56] Loaded store 'userlocal' from 'D:\L4L\Left4LegendServer\Windows\SteamCMD\userdata\anonymous\config\localconfig.vdf' successfully
+[2025-03-28 15:33:57] Flushed store 'install' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf'
+[2025-03-28 15:33:59] Flushed store 'userlocal' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\userdata\anonymous\config\localconfig.vdf'
+[2025-03-28 15:34:00] Flushed store 'userlocal' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\userdata\anonymous\config\localconfig.vdf'
+[2025-03-28 15:34:01] Flushed store 'userlocal' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\userdata\anonymous\config\localconfig.vdf'
+[2025-03-28 15:34:31] Flushed store 'install' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf'
+[2025-03-28 15:35:01] Flushed store 'install' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf'
+[2025-03-28 15:35:31] Flushed store 'install' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf'
+[2025-03-28 15:36:01] Flushed store 'install' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf'
+[2025-03-28 15:36:31] Flushed store 'install' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf'
+[2025-03-28 15:36:41] Flushed store 'userlocal' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\userdata\anonymous\config\localconfig.vdf'
+[2025-03-28 15:37:01] Flushed store 'install' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf'
+
+
+[2025-03-28 15:37:33] Client version: 1742420332
+[2025-03-28 15:37:33] Loaded store 'install' from 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf' successfully
+[2025-03-28 15:37:33] Loaded store 'install' from 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf' successfully
+[2025-03-28 15:37:33] Loaded store 'install' from 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf' successfully
+[2025-03-28 15:37:33] Loaded store 'install' from 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf' successfully
+[2025-03-28 15:37:34] Loaded store 'install' from 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf' successfully
+[2025-03-28 15:37:34] Loaded store 'userlocal' from 'D:\L4L\Left4LegendServer\Windows\SteamCMD\userdata\anonymous\config\localconfig.vdf' successfully
+[2025-03-28 15:37:35] Flushed store 'install' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf'
+[2025-03-28 15:37:36] Flushed store 'userlocal' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\userdata\anonymous\config\localconfig.vdf'
+[2025-03-28 15:37:38] Flushed store 'userlocal' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\userdata\anonymous\config\localconfig.vdf'
+[2025-03-28 15:38:08] Flushed store 'install' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf'
+[2025-03-28 15:38:38] Flushed store 'install' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf'
+[2025-03-28 15:39:08] Flushed store 'install' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf'
+[2025-03-28 15:39:38] Flushed store 'install' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf'
+[2025-03-28 15:39:46] Flushed store 'userlocal' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\userdata\anonymous\config\localconfig.vdf'
+[2025-03-28 15:40:08] Flushed store 'install' to 'D:\L4L\Left4LegendServer\Windows\SteamCMD\config\config.vdf'
