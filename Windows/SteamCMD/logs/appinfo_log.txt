@@ -2704,3 +2704,46 @@
 [2025-03-28 15:37:35] RequestAppInfoUpdate: AppIDs 222860
 [2025-03-28 15:37:35] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
 [2025-03-28 15:37:36] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2025-03-28 20:34:40] Client version: 1742420332
+[2025-03-28 20:34:40] ThreadedReadFromDisk: loading appinfo cache from: D:\L4L\Left4LegendServer\Windows\SteamCMD/appcache/appinfo.vdf
+[2025-03-28 20:34:40] ThreadedReadFromDisk: header version: 0x7564429
+[2025-03-28 20:34:40] ThreadedReadFromDisk: apps updated: 1238
+[2025-03-28 20:34:40] CAppInfoCacheReadFromDiskThread took 28 milliseconds to initialize
+[2025-03-28 20:34:41] RequestAppInfoUpdate: AppIDs 7
+[2025-03-28 20:34:42] Packages changed: force all
+[2025-03-28 20:34:42] Apps changed: 258550=28195975,4020=28195972,4000=28195968,920720=28195922,541300=28195780,996560=28195761,252490=28195707,1620340=28195705,589290=28195631,1682970=28195564,2635410=28195481,1324780=28195435,298740=28195348,244850=28195309,581330=28195306,1670340=28195239,
+[2025-03-28 20:34:42] Change number 28190391->28196010, apps: 47/2764, packages: 0/0
+[2025-03-28 20:34:42] Requesting 123 apps, 1 packages (meta data, 1024 prev attempts, expected 5 KB)
+[2025-03-28 20:34:43] Requested 77 app access tokens, 0 received, 77 denied
+[2025-03-28 20:34:43] Downloaded 3 apps via HTTP, 30 KB (8 KB compressed)
+[2025-03-28 20:34:43] Requesting 17 apps, 0 packages (full data, 1024 prev attempts, expected 85 KB)
+[2025-03-28 20:34:43] UpdatesJob: finished OK, apps updated 20 (115 KB), packages updated 0 (0 KB)
+[2025-03-28 20:34:43] RequestAppInfoUpdate: AppIDs 222860
+[2025-03-28 20:34:43] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2025-03-28 20:34:43] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2025-03-28 20:34:58] ThreadedWriteToDisk: writing appinfo cache to: D:\L4L\Left4LegendServer\Windows\SteamCMD/appcache/appinfo.vdf
+[2025-03-28 20:34:58] App cache write succeeded D:\L4L\Left4LegendServer\Windows\SteamCMD/appcache/appinfo.vdf (1238 apps, 2679 KB) in 28 ms
+[2025-03-28 20:48:14] Packages changed: force all
+[2025-03-28 20:48:14] Apps changed: 2915550=28196175,983870=28196163,4000=28196134,258550=28196018,
+[2025-03-28 20:48:14] Change number 28196010->28196207, apps: 4/155, packages: 0/0
+[2025-03-28 20:48:14] Requesting 4 apps, 1 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2025-03-28 20:48:14] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2025-03-28 21:03:15] Packages changed: force all
+[2025-03-28 21:03:15] Apps changed: 903950=28196439,4000=28196428,4020=28196427,258550=28196255,
+[2025-03-28 21:03:15] Change number 28196207->28196440, apps: 4/163, packages: 0/0
+[2025-03-28 21:03:15] Requesting 4 apps, 1 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2025-03-28 21:03:15] Downloaded 1 apps via HTTP, 11 KB (3 KB compressed)
+[2025-03-28 21:03:15] Requesting 2 apps, 0 packages (full data, 1024 prev attempts, expected 7 KB)
+[2025-03-28 21:03:15] UpdatesJob: finished OK, apps updated 3 (18 KB), packages updated 0 (0 KB)
+[2025-03-28 21:03:31] ThreadedWriteToDisk: writing appinfo cache to: D:\L4L\Left4LegendServer\Windows\SteamCMD/appcache/appinfo.vdf
+[2025-03-28 21:03:31] App cache write succeeded D:\L4L\Left4LegendServer\Windows\SteamCMD/appcache/appinfo.vdf (1238 apps, 2679 KB) in 43 ms
+[2025-03-28 21:18:06] Packages changed: force all
+[2025-03-28 21:18:06] Apps changed: 2686900=28196630,2533070=28196523,1829350=28196486,903950=28196449,
+[2025-03-28 21:18:06] Change number 28196440->28196672, apps: 4/270, packages: 0/0
+[2025-03-28 21:18:06] Requesting 4 apps, 1 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2025-03-28 21:18:06] Requesting 2 apps, 0 packages (full data, 1024 prev attempts, expected 13 KB)
+[2025-03-28 21:18:07] UpdatesJob: finished OK, apps updated 2 (13 KB), packages updated 0 (0 KB)
+[2025-03-28 21:18:22] ThreadedWriteToDisk: writing appinfo cache to: D:\L4L\Left4LegendServer\Windows\SteamCMD/appcache/appinfo.vdf
+[2025-03-28 21:18:22] App cache write succeeded D:\L4L\Left4LegendServer\Windows\SteamCMD/appcache/appinfo.vdf (1238 apps, 2679 KB) in 39 ms
