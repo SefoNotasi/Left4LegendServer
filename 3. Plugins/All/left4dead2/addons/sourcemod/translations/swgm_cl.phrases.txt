@@ -32,13 +32,13 @@
 	}
 	"Welcome1"
 	{
-		"en"		"Welcome to {OLIVE}Left 4 Legend {DEFAULT}server\n{LIGHTGREEN}steamcommunity.com/groups/Left4Legend"
-		"ru"		"Добро пожаловать на сервер {OLIVE}Left 4 Legend\n{LIGHTGREEN}steamcommunity.com/groups/Left4Legend"
+		"en"		"Welcome to {OLIVE}Left 4 Legend {DEFAULT}server.\n{LIGHTGREEN}steamcommunity.com/groups/Left4Legend"
+		"ru"		"Добро пожаловать на {OLIVE}Left 4 Legend {DEFAULT}сервер.\n{LIGHTGREEN}steamcommunity.com/groups/Left4Legend"
 	}
 	"Welcome2"
 	{
-		"en"		"Join the group to add server to your favorites & hide these messages"
-		"ru"		"Присоединитесь к группе, чтобы добавить сервер в избранное и скрыть эти сообщения"
+		"en"		"Join the group to add server to your favorites & hide these messages."
+		"ru"		"Присоединитесь к группе, чтобы добавить сервер в избранное и скрыть эти сообщения."
 	}
 	"Welcome3"
 	{

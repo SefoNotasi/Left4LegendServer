@@ -393,13 +393,11 @@ bool IsValidClient(int client)
 
 public void OnClientPostAdminCheck(int client)
 {
-    if (IsFakeClient(client))
+    if (!IsClientInGame(client) || IsFakeClient(client) || g_bLeave[client])
         return;
 
-    if (g_bInGroup[client])
-        return;
-    else
-        CreateTimer(5.0, PrintWelcomeMessages, client);    // 5 seconds
+    SteamWorks_GetUserGroupStatusAuthID(g_iAuthID[client], g_iGroupId);
+    CreateTimer(5.0, PrintWelcomeMessages, client);    // 5 seconds
 }
 
 public Action PrintWelcomeMessages(Handle timer, int client)
@@ -407,9 +405,12 @@ public Action PrintWelcomeMessages(Handle timer, int client)
     if (!IsValidClient(client))
         return Plugin_Continue;
 
-    CPrintToChat(client, "%t", "Welcome1");
-    CPrintToChat(client, "%t", "Welcome2");
-    CPrintToChat(client, "%t", "Welcome3");
+    if (!g_bInGroup[client])
+    {
+        CPrintToChat(client, "%t", "Welcome1");
+        CPrintToChat(client, "%t", "Welcome2");
+        CPrintToChat(client, "%t", "Welcome3");
+    }
 
     return Plugin_Continue;
 }
